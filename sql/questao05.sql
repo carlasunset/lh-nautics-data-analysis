@@ -24,12 +24,13 @@ JOIN produtos p ON vendas.id_product = p.code
 GROUP BY id_client;
 
 #Top 10 clientes fiéis
-SELECT id_client, COUNT(DISTINCT p.actual_category) AS diferente_categorias,
-SUM(total) AS total_gasto, 
+SELECT id_client, clientes.full_name, COUNT(DISTINCT p.actual_category) AS diferente_categorias,
+SUM(total) AS total_gasto,
 COUNT(id) AS total_vendas,
 SUM(total) / COUNT(id) AS ticket_medio
 FROM vendas v
 JOIN produtos p ON v.id_product = p.code
+JOIN clientes ON v.id_client = clientes.code
 GROUP BY id_client
 HAVING COUNT(DISTINCT p.actual_category) >= 3
 ORDER BY ticket_medio DESC
