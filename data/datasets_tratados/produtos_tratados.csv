@@ -1,0 +1,151 @@
+name,price,code,actual_category
+Transponder AIS Maré Magnum,33122.52,1,eletrônicos
+Transponder Furuno Marlin,13998.15,2,eletrônicos
+Radar Furuno Pulse Leviathan,9024.19,3,eletrônicos
+Rádio AIS Hydro Tidal Zen,3381.88,4,eletrônicos
+Piloto Automático Furuno Storm,23669.01,5,eletrônicos
+Transponder AIS Vector,11820.21,6,eletrônicos
+Radar AIS Zen,19518.77,7,eletrônicos
+GPS AIS Zen,4984.15,8,eletrônicos
+Transponder AIS Titan Pulse,39705.5,9,eletrônicos
+Piloto Automático Simrad Titan Flux Magnum,32033.04,10,eletrônicos
+GPS Furuno Swift Leviathan Poseidon,36231.91,11,eletrônicos
+GPS AIS Drift Flux Vox,2726.18,12,eletrônicos
+Radar Simrad Boost,7747.1,13,eletrônicos
+Rádio Furuno Zen Swift,35811.08,14,eletrônicos
+Radar Garmin Tidal Thrust,27899.76,15,eletrônicos
+Sonda Garmin Axis,30005.99,16,eletrônicos
+Rádio AIS Oceanic Pulse,14038.78,17,eletrônicos
+Rádio Simrad Axis,26572.45,18,eletrônicos
+Sonda Lowrance Tidal Storm Vox,16432.35,19,eletrônicos
+Radar AIS Marlin,30833.44,20,eletrônicos
+GPS AIS Nautic Thrust,8734.56,21,eletrônicos
+Transponder Furuno Force Ion,39452.86,22,eletrônicos
+Piloto Automático Furuno Torque Peak,11178.63,23,eletrônicos
+GPS AIS Orca Marlin Velocity,23232.18,24,eletrônicos
+Rádio Lowrance Nitro Thrust Barracuda,12126.46,25,eletrônicos
+Piloto Automático Furuno Core Boost Flux,17283.18,26,eletrônicos
+GPS Garmin Vortex Maré Drift,16511.45,27,eletrônicos
+Piloto Automático AIS Core,14258.56,28,eletrônicos
+Rádio Simrad Orca,36510.34,29,eletrônicos
+Transponder AIS Boost,32247.87,30,eletrônicos
+Transponder Furuno Pulse Axis,8283.11,31,eletrônicos
+Sonda AIS Impulse Oceanic Zenith,12502.46,32,eletrônicos
+Transponder Garmin Drift Vortex Marlin,6715.77,33,eletrônicos
+Transponder AIS Helix Torque,4917.53,34,eletrônicos
+Radar Furuno Swift,11005.53,35,eletrônicos
+Radar Lowrance Aqua Pulse,22601.39,36,eletrônicos
+GPS Lowrance Evo Storm Drift,6067.71,37,eletrônicos
+Rádio AIS Force,26461.14,38,eletrônicos
+GPS Furuno Vector,29632.83,39,eletrônicos
+Sonda Furuno Maré Tidal,14184.04,40,eletrônicos
+GPS Simrad Flow Pulse,10600.0,41,eletrônicos
+Transponder Lowrance Axis,5992.84,42,eletrônicos
+Sonda AIS Barracuda,35096.86,43,eletrônicos
+GPS Simrad Zen Hydra Peak,10806.84,44,eletrônicos
+GPS Furuno Current,9903.71,45,eletrônicos
+Sonda AIS Magnum Boost,4983.77,46,eletrônicos
+Rádio Simrad Tidal Aqua,6122.96,47,eletrônicos
+GPS Furuno Magnum Drift,14736.35,48,eletrônicos
+Sonda Furuno Swift,13264.25,49,eletrônicos
+Piloto Automático Simrad Poseidon Magnum,11275.99,50,eletrônicos
+Motor Diesel Tohatsu Evo Zenith 16HP,64158.99,51,propulsão
+Motor Diesel Honda Zen Tidal Mako 26HP,13704.1,52,propulsão
+Motor Elétrico Torqeedo Zen Titan Hydra 129HP,53675.01,53,propulsão
+Motor de Popa Yamaha Evo Dash 155HP,121534.82,54,propulsão
+Motor Diesel Volvo Flow Oceanic 259HP,109987.2,55,propulsão
+Motor Elétrico Torqeedo Velocity Swift 74HP,42988.77,56,propulsão
+Motor de Popa Honda Vector Kinetic 174HP,118790.57,57,propulsão
+Motor de Popa Tohatsu Ion Core Nautic 53HP,108824.59,58,propulsão
+Motor Diesel Yanmar Hydro Magnum Boost 267HP,87166.14,59,propulsão
+Motor de Popa Honda Velocity Drift 258HP,108751.09,60,propulsão
+Motor Diesel Honda Prime 84HP,28018.63,61,propulsão
+Motor Diesel Yanmar Velocity 37HP,102221.97,62,propulsão
+Motor Elétrico Torqeedo Ion Orca Vox 186HP,139957.67,63,propulsão
+Motor Elétrico Yamaha Swift Drift Current 265HP,111505.55,64,propulsão
+Motor de Popa Torqeedo Nautic Swift 223HP,25557.7,65,propulsão
+Motor de Popa Tohatsu Poseidon Helix Prime 135HP,12571.63,66,propulsão
+Motor de Popa Yamaha Mako 108HP,85789.05,67,propulsão
+Motor de Popa Honda Ion Vox Prime 163HP,66897.1,68,propulsão
+Motor de Popa Torqeedo Ultra Impulse 292HP,45265.02,69,propulsão
+Motor Diesel Parsun Boost Helix Velocity 146HP,34355.43,70,propulsão
+Motor Elétrico Torqeedo Pulse 300HP,130174.06,71,propulsão
+Motor de Popa Volvo Hydro Dash 256HP,99664.64,72,propulsão
+Motor de Popa Torqeedo Core Hydra Flux 162HP,143159.93,73,propulsão
+Motor de Popa Honda Torque 228HP,86558.56,74,propulsão
+Motor Diesel Volvo Flow Leviathan Maré 187HP,32768.38,75,propulsão
+Motor Diesel Honda Aero 205HP,148198.23,76,propulsão
+Motor Diesel Tohatsu Vector 197HP,44704.67,77,propulsão
+Motor Elétrico Honda Mako Axis 131HP,121761.56,78,propulsão
+Motor Diesel Tohatsu Zenith 60HP,66146.85,79,propulsão
+Motor de Popa Volvo Maré 69HP,129223.84,80,propulsão
+Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP,122148.49,81,propulsão
+Motor Elétrico Volvo Nautic Vox 118HP,51634.04,82,propulsão
+Motor Diesel Yanmar Dash Nitro 184HP,134803.88,83,propulsão
+Motor de Popa Torqeedo Zenith Peak Thrust 212HP,43423.88,84,propulsão
+Motor de Popa Parsun Impulse 162HP,38578.7,85,propulsão
+Motor Diesel Volvo Helix Evo Force 144HP,93523.13,86,propulsão
+Motor Elétrico Volvo Boost 225HP,66859.9,87,propulsão
+Motor Diesel Tohatsu Kinetic Poseidon 113HP,48336.49,88,propulsão
+Motor Elétrico Yamaha Orca Storm Zenith 11HP,78678.05,89,propulsão
+Motor de Popa Yamaha Thrust Marlin Nexus 182HP,79097.33,90,propulsão
+Motor Elétrico Tohatsu Zenith Oceanic 113HP,134886.02,91,propulsão
+Motor Elétrico Yamaha Nautic Kraken 133HP,88854.1,92,propulsão
+Motor Elétrico Yamaha Flow 204HP,100477.01,93,propulsão
+Motor de Popa Volvo Magnum 276HP,40750.84,94,propulsão
+Motor Diesel Honda Leviathan 133HP,69808.04,95,propulsão
+Motor de Popa Tohatsu Boost Swift 126HP,70620.84,96,propulsão
+Motor de Popa Tohatsu Evo 168HP,135335.07,97,propulsão
+Motor Diesel Parsun Velocity Abyss Orca 235HP,79361.13,98,propulsão
+Motor Elétrico Honda Flux Ultra 273HP,107266.66,99,propulsão
+Motor Elétrico Honda Vector Abyss 220HP,104600.24,100,propulsão
+Cabo de Nylon Delta Vortex,463.4,101,ancoragem
+Cabo de Nylon Bruce Nexus,832.02,102,ancoragem
+Âncora Delta Swift,1789.19,103,ancoragem
+Cabo de Nylon Delta Zen Vortex Storm,3713.02,104,ancoragem
+Cabo de Nylon Danforth Prime,309.54,105,ancoragem
+Âncora Danforth Nitro Titan Vox,4384.87,106,ancoragem
+Boia de Arqueamento Bruce Tidal Marlin,1513.38,107,ancoragem
+Boia de Arqueamento Bruce Titan,3345.56,108,ancoragem
+Cabo de Nylon Danforth Evo Aqua Mako,622.7,109,ancoragem
+Corrente Bruce Current,2495.51,110,ancoragem
+Boia de Arqueamento Danforth Aero Dash,4285.23,111,ancoragem
+Corrente Danforth Tidal,2180.95,112,ancoragem
+Âncora Delta Mako Ultra,4394.96,113,ancoragem
+Boia de Arqueamento Danforth Tidal Zen Swift,799.29,114,ancoragem
+Cabo de Nylon Delta Force Magnum Leviathan,830.59,115,ancoragem
+Cabo de Nylon Delta Velocity Oceanic Abyss,2575.52,116,ancoragem
+Corrente Danforth Zen Abyss Axis,4103.01,117,ancoragem
+Boia de Arqueamento Delta Force Vox,4315.11,118,ancoragem
+Âncora Bruce Aqua,3255.82,119,ancoragem
+Boia de Arqueamento Danforth Flux Tidal,3124.49,120,ancoragem
+Boia de Arqueamento Delta Nexus,4349.86,145,ancoragem
+Âncora Danforth Oceanic Helix Flux,3694.27,121,ancoragem
+Corrente Danforth Zenith Oceanic Torque,1322.47,122,ancoragem
+Cabo de Nylon Danforth Orca Aero,2777.07,123,ancoragem
+Corrente Delta Axis,3769.93,124,ancoragem
+Cabo de Nylon Danforth Kinetic,3402.07,125,ancoragem
+Corrente Danforth Hydro,2677.06,126,ancoragem
+Cabo de Nylon Delta Velocity Core Mako,1549.35,127,ancoragem
+Boia de Arqueamento Bruce Marlin Hydra,4650.72,128,ancoragem
+Corrente Delta Boost,3266.21,129,ancoragem
+Boia de Arqueamento Delta Zen Boost Vortex,4144.09,130,ancoragem
+Boia de Arqueamento Danforth Core Vortex,963.59,131,ancoragem
+Corrente Bruce Nautic Evo,1562.97,132,ancoragem
+Âncora Bruce Core Pulse,1892.72,133,ancoragem
+Âncora Delta Storm Vox,4717.61,134,ancoragem
+Cabo de Nylon Danforth Titan Poseidon,1644.51,135,ancoragem
+Cabo de Nylon Bruce Flux Hydro,1973.5,136,ancoragem
+Âncora Danforth Impulse,3385.47,137,ancoragem
+Boia de Arqueamento Delta Peak Boost Thrust,4183.05,138,ancoragem
+Boia de Arqueamento Danforth Torque,1424.88,139,ancoragem
+Boia de Arqueamento Bruce Dash Titan Pulse,3134.58,140,ancoragem
+Boia de Arqueamento Bruce Nexus Abyss,4781.8,141,ancoragem
+Âncora Danforth Vector Evo,826.41,142,ancoragem
+Âncora Delta Hydra Kraken Velocity,4436.43,143,ancoragem
+Boia de Arqueamento Bruce Barracuda,2214.14,144,ancoragem
+Corrente Delta Vox Ion,495.98,146,ancoragem
+Corrente Danforth Force Leviathan Impulse,3030.08,147,ancoragem
+Âncora Delta Force Barracuda Mako,4785.56,148,ancoragem
+Cabo de Nylon Bruce Core,1163.62,149,ancoragem
+Cabo de Nylon Danforth Magnum Vox,1645.66,150,ancoragem

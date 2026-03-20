@@ -1,0 +1,6092 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Transponder AIS Maré Magnum",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "10/08/2016",
+        "usd_price": 10583.63
+      },
+      {
+        "start_date": "15/06/2018",
+        "usd_price": 8778.36
+      },
+      {
+        "start_date": "25/09/2018",
+        "usd_price": 8023.87
+      },
+      {
+        "start_date": "19/03/2019",
+        "usd_price": 8772.78
+      },
+      {
+        "start_date": "17/01/2020",
+        "usd_price": 7918.18
+      },
+      {
+        "start_date": "17/06/2020",
+        "usd_price": 6310.01
+      },
+      {
+        "start_date": "02/07/2021",
+        "usd_price": 6586.7
+      },
+      {
+        "start_date": "16/05/2022",
+        "usd_price": 6538.2
+      },
+      {
+        "start_date": "28/02/2023",
+        "usd_price": 6360.91
+      },
+      {
+        "start_date": "17/10/2023",
+        "usd_price": 6574.8
+      },
+      {
+        "start_date": "16/02/2024",
+        "usd_price": 6657.12
+      },
+      {
+        "start_date": "22/02/2024",
+        "usd_price": 6703.2
+      },
+      {
+        "start_date": "15/03/2024",
+        "usd_price": 6633.66
+      },
+      {
+        "start_date": "02/08/2024",
+        "usd_price": 5774.5
+      },
+      {
+        "start_date": "08/04/2025",
+        "usd_price": 5579.75
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Transponder Furuno Marlin",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "23/11/2017",
+        "usd_price": 4325.09
+      },
+      {
+        "start_date": "06/07/2022",
+        "usd_price": 2577.22
+      },
+      {
+        "start_date": "24/05/2023",
+        "usd_price": 2829.74
+      },
+      {
+        "start_date": "05/11/2025",
+        "usd_price": 2602.27
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_name": "Radar Furuno Pulse Leviathan",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "12/04/2016",
+        "usd_price": 2549.21
+      },
+      {
+        "start_date": "26/07/2018",
+        "usd_price": 2423.45
+      },
+      {
+        "start_date": "27/06/2019",
+        "usd_price": 2335.69
+      },
+      {
+        "start_date": "17/07/2019",
+        "usd_price": 2399.28
+      },
+      {
+        "start_date": "14/10/2019",
+        "usd_price": 2187.31
+      },
+      {
+        "start_date": "04/12/2020",
+        "usd_price": 1745.49
+      },
+      {
+        "start_date": "21/06/2022",
+        "usd_price": 1753.77
+      }
+    ]
+  },
+  {
+    "product_id": 4,
+    "product_name": "Rádio AIS Hydro Tidal Zen",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "04/03/2016",
+        "usd_price": 909.55
+      },
+      {
+        "start_date": "22/11/2016",
+        "usd_price": 1010.42
+      },
+      {
+        "start_date": "19/04/2017",
+        "usd_price": 1080.89
+      },
+      {
+        "start_date": "22/11/2018",
+        "usd_price": 887.7
+      },
+      {
+        "start_date": "21/09/2022",
+        "usd_price": 654.31
+      },
+      {
+        "start_date": "28/11/2023",
+        "usd_price": 692.14
+      },
+      {
+        "start_date": "13/03/2024",
+        "usd_price": 679.13
+      },
+      {
+        "start_date": "10/03/2025",
+        "usd_price": 583.85
+      }
+    ]
+  },
+  {
+    "product_id": 5,
+    "product_name": "Piloto Automático Furuno Storm",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "10/02/2016",
+        "usd_price": 6006.45
+      },
+      {
+        "start_date": "17/01/2017",
+        "usd_price": 7374.9
+      },
+      {
+        "start_date": "18/02/2021",
+        "usd_price": 4364.4
+      },
+      {
+        "start_date": "03/05/2022",
+        "usd_price": 4718.61
+      },
+      {
+        "start_date": "24/05/2022",
+        "usd_price": 4920.79
+      },
+      {
+        "start_date": "15/08/2023",
+        "usd_price": 4752.24
+      },
+      {
+        "start_date": "24/09/2024",
+        "usd_price": 4327.37
+      },
+      {
+        "start_date": "24/07/2025",
+        "usd_price": 4285.3
+      }
+    ]
+  },
+  {
+    "product_id": 6,
+    "product_name": "Transponder AIS Vector",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "23/07/2020",
+        "usd_price": 2288.92
+      },
+      {
+        "start_date": "01/12/2021",
+        "usd_price": 2104.66
+      },
+      {
+        "start_date": "07/03/2024",
+        "usd_price": 2394.79
+      },
+      {
+        "start_date": "21/06/2024",
+        "usd_price": 2172.43
+      },
+      {
+        "start_date": "04/12/2024",
+        "usd_price": 1951.33
+      },
+      {
+        "start_date": "19/03/2025",
+        "usd_price": 2086.5
+      }
+    ]
+  },
+  {
+    "product_id": 7,
+    "product_name": "Radar AIS Zen",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "26/10/2016",
+        "usd_price": 6253.41
+      },
+      {
+        "start_date": "21/06/2017",
+        "usd_price": 5871.9
+      },
+      {
+        "start_date": "08/05/2018",
+        "usd_price": 5454.91
+      },
+      {
+        "start_date": "12/12/2022",
+        "usd_price": 3678.62
+      },
+      {
+        "start_date": "18/08/2025",
+        "usd_price": 3604.64
+      }
+    ]
+  },
+  {
+    "product_id": 8,
+    "product_name": "GPS AIS Zen",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "06/12/2019",
+        "usd_price": 1193.04
+      },
+      {
+        "start_date": "19/06/2020",
+        "usd_price": 932.31
+      },
+      {
+        "start_date": "18/02/2021",
+        "usd_price": 919.04
+      },
+      {
+        "start_date": "06/08/2021",
+        "usd_price": 951.1
+      },
+      {
+        "start_date": "23/03/2023",
+        "usd_price": 947.09
+      },
+      {
+        "start_date": "10/05/2023",
+        "usd_price": 1006.07
+      },
+      {
+        "start_date": "16/04/2024",
+        "usd_price": 947.05
+      },
+      {
+        "start_date": "03/06/2025",
+        "usd_price": 879.22
+      }
+    ]
+  },
+  {
+    "product_id": 9,
+    "product_name": "Transponder AIS Titan Pulse",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "26/12/2018",
+        "usd_price": 10115.54
+      },
+      {
+        "start_date": "21/05/2020",
+        "usd_price": 7088.62
+      },
+      {
+        "start_date": "10/12/2020",
+        "usd_price": 7808.97
+      },
+      {
+        "start_date": "05/05/2022",
+        "usd_price": 7933.96
+      },
+      {
+        "start_date": "16/04/2024",
+        "usd_price": 7544.56
+      },
+      {
+        "start_date": "21/08/2024",
+        "usd_price": 7258.64
+      }
+    ]
+  },
+  {
+    "product_id": 10,
+    "product_name": "Piloto Automático Simrad Titan Flux Magnum",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "29/05/2018",
+        "usd_price": 8591.86
+      },
+      {
+        "start_date": "16/11/2021",
+        "usd_price": 5849.07
+      },
+      {
+        "start_date": "20/12/2021",
+        "usd_price": 5615.0
+      },
+      {
+        "start_date": "23/05/2023",
+        "usd_price": 6449.43
+      },
+      {
+        "start_date": "29/06/2023",
+        "usd_price": 6594.15
+      },
+      {
+        "start_date": "05/09/2023",
+        "usd_price": 6445.41
+      },
+      {
+        "start_date": "13/11/2023",
+        "usd_price": 6505.49
+      },
+      {
+        "start_date": "24/11/2023",
+        "usd_price": 6547.91
+      },
+      {
+        "start_date": "07/10/2024",
+        "usd_price": 5864.71
+      },
+      {
+        "start_date": "21/03/2025",
+        "usd_price": 5596.76
+      },
+      {
+        "start_date": "01/10/2025",
+        "usd_price": 6021.02
+      }
+    ]
+  },
+  {
+    "product_id": 11,
+    "product_name": "GPS Furuno Swift Leviathan Poseidon",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "18/02/2016",
+        "usd_price": 9039.0
+      },
+      {
+        "start_date": "07/10/2016",
+        "usd_price": 11277.36
+      },
+      {
+        "start_date": "14/10/2016",
+        "usd_price": 11372.94
+      },
+      {
+        "start_date": "23/04/2018",
+        "usd_price": 10527.94
+      },
+      {
+        "start_date": "15/10/2019",
+        "usd_price": 8734.37
+      },
+      {
+        "start_date": "13/01/2020",
+        "usd_price": 8772.22
+      },
+      {
+        "start_date": "27/11/2020",
+        "usd_price": 6773.84
+      },
+      {
+        "start_date": "14/05/2021",
+        "usd_price": 6875.78
+      },
+      {
+        "start_date": "27/01/2022",
+        "usd_price": 6733.8
+      },
+      {
+        "start_date": "15/03/2023",
+        "usd_price": 6839.44
+      },
+      {
+        "start_date": "09/05/2023",
+        "usd_price": 7246.24
+      },
+      {
+        "start_date": "20/05/2025",
+        "usd_price": 6399.81
+      }
+    ]
+  },
+  {
+    "product_id": 12,
+    "product_name": "GPS AIS Drift Flux Vox",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "03/02/2016",
+        "usd_price": 689.26
+      },
+      {
+        "start_date": "21/03/2016",
+        "usd_price": 752.61
+      },
+      {
+        "start_date": "22/09/2017",
+        "usd_price": 871.57
+      },
+      {
+        "start_date": "18/09/2018",
+        "usd_price": 659.09
+      },
+      {
+        "start_date": "09/10/2018",
+        "usd_price": 729.22
+      },
+      {
+        "start_date": "02/01/2019",
+        "usd_price": 706.47
+      },
+      {
+        "start_date": "07/02/2020",
+        "usd_price": 632.96
+      },
+      {
+        "start_date": "20/06/2022",
+        "usd_price": 527.97
+      },
+      {
+        "start_date": "31/07/2024",
+        "usd_price": 481.53
+      },
+      {
+        "start_date": "20/05/2025",
+        "usd_price": 481.54
+      },
+      {
+        "start_date": "20/06/2025",
+        "usd_price": 496.11
+      },
+      {
+        "start_date": "10/07/2025",
+        "usd_price": 491.85
+      }
+    ]
+  },
+  {
+    "product_id": 13,
+    "product_name": "Radar Simrad Boost",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "22/03/2017",
+        "usd_price": 2504.48
+      },
+      {
+        "start_date": "08/01/2018",
+        "usd_price": 2394.7
+      },
+      {
+        "start_date": "19/02/2019",
+        "usd_price": 2082.55
+      },
+      {
+        "start_date": "12/12/2019",
+        "usd_price": 1885.58
+      },
+      {
+        "start_date": "22/10/2021",
+        "usd_price": 1356.5
+      }
+    ]
+  },
+  {
+    "product_id": 14,
+    "product_name": "Rádio Furuno Zen Swift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "10/11/2016",
+        "usd_price": 10819.71
+      },
+      {
+        "start_date": "05/05/2017",
+        "usd_price": 11276.24
+      },
+      {
+        "start_date": "10/01/2020",
+        "usd_price": 8790.37
+      },
+      {
+        "start_date": "12/08/2021",
+        "usd_price": 6841.36
+      },
+      {
+        "start_date": "17/02/2023",
+        "usd_price": 6885.95
+      },
+      {
+        "start_date": "24/03/2023",
+        "usd_price": 6767.66
+      },
+      {
+        "start_date": "03/05/2024",
+        "usd_price": 7068.63
+      },
+      {
+        "start_date": "31/05/2024",
+        "usd_price": 6832.87
+      },
+      {
+        "start_date": "24/02/2025",
+        "usd_price": 6254.99
+      },
+      {
+        "start_date": "02/09/2025",
+        "usd_price": 6549.93
+      }
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_name": "Radar Garmin Tidal Thrust",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "23/06/2017",
+        "usd_price": 8369.26
+      },
+      {
+        "start_date": "17/05/2019",
+        "usd_price": 6831.81
+      },
+      {
+        "start_date": "21/08/2019",
+        "usd_price": 6931.96
+      },
+      {
+        "start_date": "17/01/2020",
+        "usd_price": 6669.64
+      },
+      {
+        "start_date": "26/11/2020",
+        "usd_price": 5244.81
+      },
+      {
+        "start_date": "06/12/2022",
+        "usd_price": 5325.4
+      },
+      {
+        "start_date": "09/01/2023",
+        "usd_price": 5267.98
+      },
+      {
+        "start_date": "25/09/2024",
+        "usd_price": 5097.71
+      },
+      {
+        "start_date": "27/01/2025",
+        "usd_price": 4707.55
+      }
+    ]
+  },
+  {
+    "product_id": 16,
+    "product_name": "Sonda Garmin Axis",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "13/04/2016",
+        "usd_price": 8470.76
+      },
+      {
+        "start_date": "19/12/2016",
+        "usd_price": 8884.87
+      },
+      {
+        "start_date": "19/02/2018",
+        "usd_price": 9278.0
+      },
+      {
+        "start_date": "06/09/2018",
+        "usd_price": 7238.38
+      },
+      {
+        "start_date": "31/10/2018",
+        "usd_price": 8072.42
+      },
+      {
+        "start_date": "20/05/2020",
+        "usd_price": 5267.72
+      },
+      {
+        "start_date": "27/07/2020",
+        "usd_price": 5783.4
+      },
+      {
+        "start_date": "02/01/2023",
+        "usd_price": 5615.94
+      },
+      {
+        "start_date": "27/12/2023",
+        "usd_price": 6212.42
+      },
+      {
+        "start_date": "19/06/2024",
+        "usd_price": 5491.48
+      },
+      {
+        "start_date": "10/01/2025",
+        "usd_price": 4922.32
+      },
+      {
+        "start_date": "15/08/2025",
+        "usd_price": 5564.7
+      }
+    ]
+  },
+  {
+    "product_id": 17,
+    "product_name": "Rádio AIS Oceanic Pulse",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "23/06/2016",
+        "usd_price": 4187.31
+      },
+      {
+        "start_date": "09/11/2016",
+        "usd_price": 4352.84
+      },
+      {
+        "start_date": "24/08/2017",
+        "usd_price": 4471.23
+      },
+      {
+        "start_date": "22/02/2018",
+        "usd_price": 4307.43
+      },
+      {
+        "start_date": "06/08/2018",
+        "usd_price": 3773.05
+      },
+      {
+        "start_date": "10/07/2019",
+        "usd_price": 3724.7
+      },
+      {
+        "start_date": "28/08/2019",
+        "usd_price": 3378.52
+      },
+      {
+        "start_date": "22/09/2020",
+        "usd_price": 2584.32
+      },
+      {
+        "start_date": "30/12/2020",
+        "usd_price": 2701.79
+      },
+      {
+        "start_date": "15/07/2021",
+        "usd_price": 2753.03
+      },
+      {
+        "start_date": "26/12/2022",
+        "usd_price": 2706.74
+      },
+      {
+        "start_date": "02/06/2023",
+        "usd_price": 2833.14
+      }
+    ]
+  },
+  {
+    "product_id": 18,
+    "product_name": "Rádio Simrad Axis",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "15/02/2016",
+        "usd_price": 6663.27
+      },
+      {
+        "start_date": "12/04/2016",
+        "usd_price": 7506.34
+      },
+      {
+        "start_date": "27/04/2016",
+        "usd_price": 7529.95
+      },
+      {
+        "start_date": "04/04/2017",
+        "usd_price": 8509.99
+      },
+      {
+        "start_date": "02/01/2018",
+        "usd_price": 8128.37
+      },
+      {
+        "start_date": "14/03/2018",
+        "usd_price": 8156.56
+      },
+      {
+        "start_date": "25/03/2019",
+        "usd_price": 6854.93
+      },
+      {
+        "start_date": "01/07/2019",
+        "usd_price": 6958.51
+      },
+      {
+        "start_date": "02/10/2019",
+        "usd_price": 6396.83
+      },
+      {
+        "start_date": "24/09/2021",
+        "usd_price": 4973.41
+      },
+      {
+        "start_date": "25/01/2022",
+        "usd_price": 4834.43
+      },
+      {
+        "start_date": "19/07/2023",
+        "usd_price": 5536.62
+      },
+      {
+        "start_date": "02/04/2024",
+        "usd_price": 5265.1
+      },
+      {
+        "start_date": "05/02/2025",
+        "usd_price": 4582.17
+      },
+      {
+        "start_date": "04/12/2025",
+        "usd_price": 5018.78
+      }
+    ]
+  },
+  {
+    "product_id": 19,
+    "product_name": "Sonda Lowrance Tidal Storm Vox",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "17/03/2016",
+        "usd_price": 4509.55
+      },
+      {
+        "start_date": "25/04/2016",
+        "usd_price": 4633.27
+      },
+      {
+        "start_date": "25/05/2016",
+        "usd_price": 4590.3
+      },
+      {
+        "start_date": "11/11/2016",
+        "usd_price": 4780.88
+      },
+      {
+        "start_date": "04/09/2017",
+        "usd_price": 5236.07
+      },
+      {
+        "start_date": "28/09/2017",
+        "usd_price": 5156.86
+      },
+      {
+        "start_date": "25/05/2021",
+        "usd_price": 3092.45
+      },
+      {
+        "start_date": "30/08/2021",
+        "usd_price": 3163.35
+      },
+      {
+        "start_date": "28/08/2023",
+        "usd_price": 3358.13
+      },
+      {
+        "start_date": "12/02/2025",
+        "usd_price": 2847.65
+      }
+    ]
+  },
+  {
+    "product_id": 20,
+    "product_name": "Radar AIS Marlin",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "04/07/2016",
+        "usd_price": 9494.81
+      },
+      {
+        "start_date": "23/01/2020",
+        "usd_price": 7401.92
+      },
+      {
+        "start_date": "04/10/2021",
+        "usd_price": 5689.04
+      }
+    ]
+  },
+  {
+    "product_id": 21,
+    "product_name": "GPS AIS Nautic Thrust",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "19/02/2016",
+        "usd_price": 2157.43
+      },
+      {
+        "start_date": "04/09/2017",
+        "usd_price": 2783.21
+      },
+      {
+        "start_date": "25/04/2018",
+        "usd_price": 2493.17
+      },
+      {
+        "start_date": "26/02/2019",
+        "usd_price": 2323.7
+      },
+      {
+        "start_date": "10/06/2019",
+        "usd_price": 2252.1
+      },
+      {
+        "start_date": "29/10/2019",
+        "usd_price": 2186.92
+      },
+      {
+        "start_date": "01/11/2019",
+        "usd_price": 2195.72
+      },
+      {
+        "start_date": "23/04/2020",
+        "usd_price": 1603.82
+      },
+      {
+        "start_date": "18/10/2021",
+        "usd_price": 1582.72
+      },
+      {
+        "start_date": "30/12/2022",
+        "usd_price": 1674.22
+      },
+      {
+        "start_date": "30/04/2024",
+        "usd_price": 1689.08
+      },
+      {
+        "start_date": "09/08/2024",
+        "usd_price": 1584.96
+      },
+      {
+        "start_date": "26/08/2025",
+        "usd_price": 1611.19
+      },
+      {
+        "start_date": "13/11/2025",
+        "usd_price": 1653.83
+      }
+    ]
+  },
+  {
+    "product_id": 22,
+    "product_name": "Transponder Furuno Force Ion",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "20/02/2019",
+        "usd_price": 10635.91
+      },
+      {
+        "start_date": "06/05/2020",
+        "usd_price": 6961.86
+      },
+      {
+        "start_date": "04/02/2021",
+        "usd_price": 7319.1
+      },
+      {
+        "start_date": "22/08/2022",
+        "usd_price": 7630.67
+      },
+      {
+        "start_date": "17/03/2025",
+        "usd_price": 6912.34
+      },
+      {
+        "start_date": "16/04/2025",
+        "usd_price": 6709.44
+      },
+      {
+        "start_date": "23/07/2025",
+        "usd_price": 7104.66
+      }
+    ]
+  },
+  {
+    "product_id": 23,
+    "product_name": "Piloto Automático Furuno Torque Peak",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "16/09/2016",
+        "usd_price": 3387.67
+      },
+      {
+        "start_date": "25/10/2016",
+        "usd_price": 3584.39
+      },
+      {
+        "start_date": "15/08/2018",
+        "usd_price": 2856.94
+      },
+      {
+        "start_date": "28/12/2018",
+        "usd_price": 2885.4
+      },
+      {
+        "start_date": "09/01/2019",
+        "usd_price": 3027.39
+      },
+      {
+        "start_date": "14/01/2022",
+        "usd_price": 2019.88
+      },
+      {
+        "start_date": "13/10/2022",
+        "usd_price": 2108.74
+      },
+      {
+        "start_date": "21/03/2024",
+        "usd_price": 2244.66
+      }
+    ]
+  },
+  {
+    "product_id": 24,
+    "product_name": "GPS AIS Orca Marlin Velocity",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "30/05/2018",
+        "usd_price": 6217.8
+      },
+      {
+        "start_date": "14/08/2018",
+        "usd_price": 5986.75
+      },
+      {
+        "start_date": "25/02/2019",
+        "usd_price": 6231.98
+      },
+      {
+        "start_date": "14/05/2019",
+        "usd_price": 5839.87
+      },
+      {
+        "start_date": "16/12/2019",
+        "usd_price": 5694.86
+      },
+      {
+        "start_date": "06/04/2021",
+        "usd_price": 4129.65
+      },
+      {
+        "start_date": "29/07/2024",
+        "usd_price": 4113.86
+      },
+      {
+        "start_date": "30/12/2024",
+        "usd_price": 3752.15
+      },
+      {
+        "start_date": "16/05/2025",
+        "usd_price": 4081.62
+      },
+      {
+        "start_date": "23/09/2025",
+        "usd_price": 4378.72
+      }
+    ]
+  },
+  {
+    "product_id": 25,
+    "product_name": "Rádio Lowrance Nitro Thrust Barracuda",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "01/10/2018",
+        "usd_price": 3011.51
+      },
+      {
+        "start_date": "22/07/2020",
+        "usd_price": 2372.85
+      },
+      {
+        "start_date": "04/03/2022",
+        "usd_price": 2389.36
+      },
+      {
+        "start_date": "29/11/2023",
+        "usd_price": 2478.48
+      },
+      {
+        "start_date": "22/03/2024",
+        "usd_price": 2430.59
+      },
+      {
+        "start_date": "18/10/2024",
+        "usd_price": 2139.99
+      },
+      {
+        "start_date": "07/01/2025",
+        "usd_price": 1996.62
+      },
+      {
+        "start_date": "20/08/2025",
+        "usd_price": 2216.09
+      },
+      {
+        "start_date": "15/10/2025",
+        "usd_price": 2226.75
+      },
+      {
+        "start_date": "31/12/2025",
+        "usd_price": 2204.09
+      }
+    ]
+  },
+  {
+    "product_id": 26,
+    "product_name": "Piloto Automático Furuno Core Boost Flux",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "14/06/2017",
+        "usd_price": 5264.45
+      },
+      {
+        "start_date": "14/07/2017",
+        "usd_price": 5419.11
+      },
+      {
+        "start_date": "23/04/2018",
+        "usd_price": 5021.99
+      },
+      {
+        "start_date": "18/02/2019",
+        "usd_price": 4632.32
+      },
+      {
+        "start_date": "14/03/2022",
+        "usd_price": 3412.88
+      },
+      {
+        "start_date": "08/05/2024",
+        "usd_price": 3396.78
+      },
+      {
+        "start_date": "17/05/2024",
+        "usd_price": 3378.85
+      },
+      {
+        "start_date": "23/09/2025",
+        "usd_price": 3257.47
+      },
+      {
+        "start_date": "04/11/2025",
+        "usd_price": 3210.1
+      }
+    ]
+  },
+  {
+    "product_id": 27,
+    "product_name": "GPS Garmin Vortex Maré Drift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "08/07/2016",
+        "usd_price": 5009.24
+      },
+      {
+        "start_date": "26/06/2017",
+        "usd_price": 4985.04
+      },
+      {
+        "start_date": "07/03/2018",
+        "usd_price": 5110.01
+      },
+      {
+        "start_date": "29/05/2019",
+        "usd_price": 4132.1
+      },
+      {
+        "start_date": "21/08/2019",
+        "usd_price": 4102.43
+      },
+      {
+        "start_date": "10/06/2020",
+        "usd_price": 3377.4
+      },
+      {
+        "start_date": "25/06/2020",
+        "usd_price": 3098.94
+      },
+      {
+        "start_date": "21/01/2021",
+        "usd_price": 3105.99
+      },
+      {
+        "start_date": "08/06/2021",
+        "usd_price": 3270.7
+      },
+      {
+        "start_date": "18/06/2021",
+        "usd_price": 3282.07
+      },
+      {
+        "start_date": "12/07/2022",
+        "usd_price": 3051.23
+      },
+      {
+        "start_date": "26/05/2025",
+        "usd_price": 2916.55
+      },
+      {
+        "start_date": "08/07/2025",
+        "usd_price": 3026.01
+      }
+    ]
+  },
+  {
+    "product_id": 28,
+    "product_name": "Piloto Automático AIS Core",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "18/06/2018",
+        "usd_price": 3798.53
+      },
+      {
+        "start_date": "30/08/2019",
+        "usd_price": 3445.84
+      },
+      {
+        "start_date": "11/09/2019",
+        "usd_price": 3509.8
+      },
+      {
+        "start_date": "03/12/2019",
+        "usd_price": 3394.73
+      },
+      {
+        "start_date": "29/01/2020",
+        "usd_price": 3394.33
+      },
+      {
+        "start_date": "14/08/2020",
+        "usd_price": 2648.03
+      },
+      {
+        "start_date": "02/09/2020",
+        "usd_price": 2653.5
+      },
+      {
+        "start_date": "14/03/2023",
+        "usd_price": 2723.39
+      },
+      {
+        "start_date": "21/11/2023",
+        "usd_price": 2921.84
+      },
+      {
+        "start_date": "14/05/2024",
+        "usd_price": 2776.74
+      },
+      {
+        "start_date": "26/08/2025",
+        "usd_price": 2630.15
+      }
+    ]
+  },
+  {
+    "product_id": 29,
+    "product_name": "Rádio Simrad Orca",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "18/04/2017",
+        "usd_price": 11795.79
+      },
+      {
+        "start_date": "29/03/2022",
+        "usd_price": 7689.63
+      },
+      {
+        "start_date": "11/08/2025",
+        "usd_price": 6703.2
+      }
+    ]
+  },
+  {
+    "product_id": 30,
+    "product_name": "Transponder AIS Boost",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "15/05/2018",
+        "usd_price": 8775.65
+      },
+      {
+        "start_date": "19/05/2020",
+        "usd_price": 5636.75
+      },
+      {
+        "start_date": "04/09/2023",
+        "usd_price": 6558.44
+      }
+    ]
+  },
+  {
+    "product_id": 31,
+    "product_name": "Transponder Furuno Pulse Axis",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "15/01/2016",
+        "usd_price": 2050.48
+      },
+      {
+        "start_date": "10/06/2016",
+        "usd_price": 2418.07
+      },
+      {
+        "start_date": "18/07/2023",
+        "usd_price": 1724.43
+      },
+      {
+        "start_date": "22/09/2023",
+        "usd_price": 1686.13
+      },
+      {
+        "start_date": "03/07/2024",
+        "usd_price": 1482.91
+      },
+      {
+        "start_date": "28/07/2025",
+        "usd_price": 1482.54
+      }
+    ]
+  },
+  {
+    "product_id": 32,
+    "product_name": "Sonda AIS Impulse Oceanic Zenith",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "08/01/2016",
+        "usd_price": 3106.66
+      },
+      {
+        "start_date": "03/11/2020",
+        "usd_price": 2197.69
+      },
+      {
+        "start_date": "02/03/2021",
+        "usd_price": 2199.67
+      },
+      {
+        "start_date": "25/05/2022",
+        "usd_price": 2585.66
+      },
+      {
+        "start_date": "12/06/2023",
+        "usd_price": 2560.62
+      },
+      {
+        "start_date": "11/01/2024",
+        "usd_price": 2562.61
+      },
+      {
+        "start_date": "23/05/2024",
+        "usd_price": 2430.64
+      },
+      {
+        "start_date": "23/07/2024",
+        "usd_price": 2240.54
+      },
+      {
+        "start_date": "07/10/2024",
+        "usd_price": 2288.99
+      },
+      {
+        "start_date": "08/05/2025",
+        "usd_price": 2199.05
+      },
+      {
+        "start_date": "09/05/2025",
+        "usd_price": 2212.63
+      },
+      {
+        "start_date": "28/08/2025",
+        "usd_price": 2310.61
+      }
+    ]
+  },
+  {
+    "product_id": 33,
+    "product_name": "Transponder Garmin Drift Vortex Marlin",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "20/09/2018",
+        "usd_price": 1638.35
+      },
+      {
+        "start_date": "26/08/2020",
+        "usd_price": 1206.27
+      },
+      {
+        "start_date": "10/09/2020",
+        "usd_price": 1268.8
+      },
+      {
+        "start_date": "10/04/2024",
+        "usd_price": 1325.97
+      }
+    ]
+  },
+  {
+    "product_id": 34,
+    "product_name": "Transponder AIS Helix Torque",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "02/12/2016",
+        "usd_price": 1419.45
+      },
+      {
+        "start_date": "04/05/2018",
+        "usd_price": 1392.99
+      },
+      {
+        "start_date": "14/05/2021",
+        "usd_price": 933.21
+      },
+      {
+        "start_date": "02/08/2021",
+        "usd_price": 957.22
+      },
+      {
+        "start_date": "09/08/2022",
+        "usd_price": 960.12
+      },
+      {
+        "start_date": "02/08/2023",
+        "usd_price": 1022.84
+      },
+      {
+        "start_date": "25/04/2024",
+        "usd_price": 951.66
+      }
+    ]
+  },
+  {
+    "product_id": 35,
+    "product_name": "Radar Furuno Swift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "28/08/2019",
+        "usd_price": 2648.55
+      },
+      {
+        "start_date": "13/02/2020",
+        "usd_price": 2536.83
+      },
+      {
+        "start_date": "21/02/2020",
+        "usd_price": 2505.93
+      },
+      {
+        "start_date": "29/04/2020",
+        "usd_price": 2027.36
+      },
+      {
+        "start_date": "09/03/2022",
+        "usd_price": 2197.24
+      },
+      {
+        "start_date": "07/04/2022",
+        "usd_price": 2321.06
+      },
+      {
+        "start_date": "05/05/2022",
+        "usd_price": 2199.13
+      },
+      {
+        "start_date": "15/02/2023",
+        "usd_price": 2106.85
+      },
+      {
+        "start_date": "30/09/2025",
+        "usd_price": 2069.49
+      }
+    ]
+  },
+  {
+    "product_id": 36,
+    "product_name": "Radar Lowrance Aqua Pulse",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "20/07/2016",
+        "usd_price": 6952.99
+      },
+      {
+        "start_date": "24/10/2017",
+        "usd_price": 6961.99
+      },
+      {
+        "start_date": "25/04/2019",
+        "usd_price": 5690.32
+      },
+      {
+        "start_date": "17/01/2020",
+        "usd_price": 5403.02
+      },
+      {
+        "start_date": "17/07/2020",
+        "usd_price": 4224.24
+      },
+      {
+        "start_date": "26/11/2020",
+        "usd_price": 4248.78
+      },
+      {
+        "start_date": "12/03/2021",
+        "usd_price": 4062.51
+      },
+      {
+        "start_date": "19/03/2021",
+        "usd_price": 4103.67
+      },
+      {
+        "start_date": "06/05/2021",
+        "usd_price": 4273.2
+      },
+      {
+        "start_date": "10/05/2022",
+        "usd_price": 4398.53
+      },
+      {
+        "start_date": "26/09/2022",
+        "usd_price": 4221.25
+      },
+      {
+        "start_date": "02/06/2023",
+        "usd_price": 4561.15
+      },
+      {
+        "start_date": "22/06/2023",
+        "usd_price": 4733.87
+      },
+      {
+        "start_date": "11/10/2023",
+        "usd_price": 4476.41
+      },
+      {
+        "start_date": "10/07/2025",
+        "usd_price": 4077.69
+      }
+    ]
+  },
+  {
+    "product_id": 37,
+    "product_name": "GPS Lowrance Evo Storm Drift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "13/06/2016",
+        "usd_price": 1757.38
+      },
+      {
+        "start_date": "12/06/2019",
+        "usd_price": 1578.86
+      },
+      {
+        "start_date": "02/03/2020",
+        "usd_price": 1350.18
+      },
+      {
+        "start_date": "19/07/2021",
+        "usd_price": 1167.5
+      },
+      {
+        "start_date": "03/09/2021",
+        "usd_price": 1174.12
+      },
+      {
+        "start_date": "15/06/2022",
+        "usd_price": 1187.12
+      },
+      {
+        "start_date": "28/09/2022",
+        "usd_price": 1132.29
+      },
+      {
+        "start_date": "09/03/2023",
+        "usd_price": 1181.71
+      },
+      {
+        "start_date": "30/10/2023",
+        "usd_price": 1211.89
+      },
+      {
+        "start_date": "11/12/2024",
+        "usd_price": 1006.02
+      },
+      {
+        "start_date": "10/01/2025",
+        "usd_price": 995.38
+      },
+      {
+        "start_date": "20/06/2025",
+        "usd_price": 1104.2
+      }
+    ]
+  },
+  {
+    "product_id": 38,
+    "product_name": "Rádio AIS Force",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "16/01/2018",
+        "usd_price": 8214.43
+      },
+      {
+        "start_date": "29/03/2018",
+        "usd_price": 7962.55
+      },
+      {
+        "start_date": "21/08/2020",
+        "usd_price": 4720.31
+      },
+      {
+        "start_date": "25/08/2020",
+        "usd_price": 4725.96
+      },
+      {
+        "start_date": "21/10/2022",
+        "usd_price": 5097.21
+      },
+      {
+        "start_date": "27/07/2023",
+        "usd_price": 5606.65
+      },
+      {
+        "start_date": "30/08/2023",
+        "usd_price": 5439.42
+      },
+      {
+        "start_date": "20/08/2024",
+        "usd_price": 4851.61
+      }
+    ]
+  },
+  {
+    "product_id": 39,
+    "product_name": "GPS Furuno Vector",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "19/04/2016",
+        "usd_price": 8339.76
+      },
+      {
+        "start_date": "08/06/2020",
+        "usd_price": 6007.67
+      },
+      {
+        "start_date": "16/10/2020",
+        "usd_price": 5270.87
+      }
+    ]
+  },
+  {
+    "product_id": 40,
+    "product_name": "Sonda Furuno Maré Tidal",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "22/02/2017",
+        "usd_price": 4602.52
+      },
+      {
+        "start_date": "26/07/2018",
+        "usd_price": 3809.13
+      },
+      {
+        "start_date": "02/08/2018",
+        "usd_price": 3768.44
+      },
+      {
+        "start_date": "13/06/2019",
+        "usd_price": 3691.55
+      },
+      {
+        "start_date": "30/07/2019",
+        "usd_price": 3743.08
+      },
+      {
+        "start_date": "07/05/2020",
+        "usd_price": 2430.48
+      },
+      {
+        "start_date": "29/12/2020",
+        "usd_price": 2731.06
+      },
+      {
+        "start_date": "02/06/2022",
+        "usd_price": 2962.85
+      },
+      {
+        "start_date": "23/12/2022",
+        "usd_price": 2757.45
+      },
+      {
+        "start_date": "01/08/2023",
+        "usd_price": 2970.73
+      },
+      {
+        "start_date": "19/01/2024",
+        "usd_price": 2881.94
+      },
+      {
+        "start_date": "04/03/2024",
+        "usd_price": 2867.26
+      }
+    ]
+  },
+  {
+    "product_id": 41,
+    "product_name": "GPS Simrad Flow Pulse",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "06/12/2017",
+        "usd_price": 3276.86
+      },
+      {
+        "start_date": "08/10/2020",
+        "usd_price": 1886.32
+      },
+      {
+        "start_date": "06/01/2023",
+        "usd_price": 2005.71
+      },
+      {
+        "start_date": "22/07/2024",
+        "usd_price": 1906.75
+      },
+      {
+        "start_date": "01/10/2024",
+        "usd_price": 1944.42
+      },
+      {
+        "start_date": "12/12/2024",
+        "usd_price": 1784.45
+      },
+      {
+        "start_date": "23/01/2025",
+        "usd_price": 1784.72
+      }
+    ]
+  },
+  {
+    "product_id": 42,
+    "product_name": "Transponder Lowrance Axis",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "10/04/2017",
+        "usd_price": 1908.37
+      },
+      {
+        "start_date": "06/06/2017",
+        "usd_price": 1826.47
+      },
+      {
+        "start_date": "27/05/2022",
+        "usd_price": 1263.57
+      }
+    ]
+  },
+  {
+    "product_id": 43,
+    "product_name": "Sonda AIS Barracuda",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "06/02/2018",
+        "usd_price": 10763.6
+      },
+      {
+        "start_date": "17/02/2021",
+        "usd_price": 6483.57
+      },
+      {
+        "start_date": "28/12/2021",
+        "usd_price": 6219.32
+      },
+      {
+        "start_date": "07/10/2025",
+        "usd_price": 6577.74
+      }
+    ]
+  },
+  {
+    "product_id": 44,
+    "product_name": "GPS Simrad Zen Hydra Peak",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "24/03/2017",
+        "usd_price": 3455.31
+      },
+      {
+        "start_date": "21/06/2017",
+        "usd_price": 3251.06
+      },
+      {
+        "start_date": "29/08/2017",
+        "usd_price": 3410.28
+      },
+      {
+        "start_date": "18/09/2017",
+        "usd_price": 3460.07
+      },
+      {
+        "start_date": "25/10/2017",
+        "usd_price": 3337.4
+      },
+      {
+        "start_date": "26/09/2019",
+        "usd_price": 2606.38
+      },
+      {
+        "start_date": "17/01/2022",
+        "usd_price": 1963.02
+      },
+      {
+        "start_date": "05/02/2024",
+        "usd_price": 2159.34
+      },
+      {
+        "start_date": "19/02/2025",
+        "usd_price": 1893.25
+      },
+      {
+        "start_date": "25/08/2025",
+        "usd_price": 1995.06
+      }
+    ]
+  },
+  {
+    "product_id": 45,
+    "product_name": "GPS Furuno Current",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "17/05/2016",
+        "usd_price": 2827.13
+      },
+      {
+        "start_date": "23/06/2017",
+        "usd_price": 2970.88
+      },
+      {
+        "start_date": "08/11/2018",
+        "usd_price": 2649.11
+      },
+      {
+        "start_date": "14/02/2019",
+        "usd_price": 2623.5
+      },
+      {
+        "start_date": "22/05/2019",
+        "usd_price": 2462.26
+      },
+      {
+        "start_date": "21/07/2020",
+        "usd_price": 1894.47
+      },
+      {
+        "start_date": "17/11/2020",
+        "usd_price": 1835.31
+      },
+      {
+        "start_date": "03/02/2022",
+        "usd_price": 1867.95
+      },
+      {
+        "start_date": "14/02/2022",
+        "usd_price": 1900.9
+      },
+      {
+        "start_date": "22/03/2023",
+        "usd_price": 1881.33
+      },
+      {
+        "start_date": "19/05/2025",
+        "usd_price": 1750.24
+      }
+    ]
+  },
+  {
+    "product_id": 46,
+    "product_name": "Sonda AIS Magnum Boost",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "06/10/2016",
+        "usd_price": 1542.77
+      },
+      {
+        "start_date": "14/11/2016",
+        "usd_price": 1447.09
+      },
+      {
+        "start_date": "20/12/2016",
+        "usd_price": 1484.15
+      },
+      {
+        "start_date": "26/12/2016",
+        "usd_price": 1524.32
+      },
+      {
+        "start_date": "25/06/2018",
+        "usd_price": 1320.06
+      },
+      {
+        "start_date": "11/09/2020",
+        "usd_price": 943.04
+      },
+      {
+        "start_date": "25/09/2020",
+        "usd_price": 895.38
+      },
+      {
+        "start_date": "04/05/2021",
+        "usd_price": 914.47
+      },
+      {
+        "start_date": "20/08/2021",
+        "usd_price": 918.36
+      },
+      {
+        "start_date": "02/12/2022",
+        "usd_price": 959.01
+      },
+      {
+        "start_date": "24/05/2023",
+        "usd_price": 1007.47
+      },
+      {
+        "start_date": "15/08/2023",
+        "usd_price": 1000.64
+      },
+      {
+        "start_date": "08/07/2025",
+        "usd_price": 913.36
+      }
+    ]
+  },
+  {
+    "product_id": 47,
+    "product_name": "Rádio Simrad Tidal Aqua",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "04/01/2016",
+        "usd_price": 1516.33
+      },
+      {
+        "start_date": "08/01/2016",
+        "usd_price": 1521.46
+      },
+      {
+        "start_date": "25/11/2016",
+        "usd_price": 1786.53
+      },
+      {
+        "start_date": "27/10/2017",
+        "usd_price": 1867.04
+      },
+      {
+        "start_date": "18/09/2018",
+        "usd_price": 1480.3
+      },
+      {
+        "start_date": "10/05/2019",
+        "usd_price": 1547.3
+      },
+      {
+        "start_date": "15/05/2019",
+        "usd_price": 1529.78
+      },
+      {
+        "start_date": "24/06/2019",
+        "usd_price": 1601.7
+      },
+      {
+        "start_date": "07/11/2019",
+        "usd_price": 1496.29
+      },
+      {
+        "start_date": "04/07/2024",
+        "usd_price": 1116.66
+      },
+      {
+        "start_date": "13/11/2025",
+        "usd_price": 1159.34
+      }
+    ]
+  },
+  {
+    "product_id": 48,
+    "product_name": "GPS Furuno Magnum Drift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "03/02/2017",
+        "usd_price": 4717.9
+      },
+      {
+        "start_date": "13/02/2017",
+        "usd_price": 4727.89
+      },
+      {
+        "start_date": "03/12/2018",
+        "usd_price": 3849.72
+      },
+      {
+        "start_date": "21/07/2020",
+        "usd_price": 2818.9
+      },
+      {
+        "start_date": "10/08/2020",
+        "usd_price": 2732.65
+      },
+      {
+        "start_date": "31/12/2020",
+        "usd_price": 2836.04
+      },
+      {
+        "start_date": "03/08/2023",
+        "usd_price": 3020.3
+      },
+      {
+        "start_date": "15/03/2024",
+        "usd_price": 2951.34
+      },
+      {
+        "start_date": "20/03/2024",
+        "usd_price": 2940.57
+      },
+      {
+        "start_date": "12/09/2024",
+        "usd_price": 2605.99
+      },
+      {
+        "start_date": "08/09/2025",
+        "usd_price": 2715.28
+      }
+    ]
+  },
+  {
+    "product_id": 49,
+    "product_name": "Sonda Furuno Swift",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "22/06/2016",
+        "usd_price": 3915.41
+      },
+      {
+        "start_date": "14/08/2020",
+        "usd_price": 2463.37
+      },
+      {
+        "start_date": "07/06/2021",
+        "usd_price": 2627.0
+      },
+      {
+        "start_date": "11/09/2024",
+        "usd_price": 2352.61
+      }
+    ]
+  },
+  {
+    "product_id": 50,
+    "product_name": "Piloto Automático Simrad Poseidon Magnum",
+    "category": "eletrônicos",
+    "historic_data": [
+      {
+        "start_date": "19/05/2016",
+        "usd_price": 3132.48
+      },
+      {
+        "start_date": "03/08/2016",
+        "usd_price": 3445.47
+      },
+      {
+        "start_date": "24/10/2017",
+        "usd_price": 3473.38
+      },
+      {
+        "start_date": "11/04/2019",
+        "usd_price": 2936.99
+      },
+      {
+        "start_date": "24/04/2020",
+        "usd_price": 1995.61
+      },
+      {
+        "start_date": "23/12/2020",
+        "usd_price": 2179.61
+      },
+      {
+        "start_date": "31/07/2023",
+        "usd_price": 2378.45
+      },
+      {
+        "start_date": "29/12/2025",
+        "usd_price": 2023.22
+      }
+    ]
+  },
+  {
+    "product_id": 51,
+    "product_name": "Motor Diesel Tohatsu Evo Zenith 16HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "20/04/2016",
+        "usd_price": 18074.48
+      },
+      {
+        "start_date": "07/02/2017",
+        "usd_price": 20499.39
+      },
+      {
+        "start_date": "21/02/2017",
+        "usd_price": 20720.51
+      },
+      {
+        "start_date": "28/03/2017",
+        "usd_price": 20500.04
+      },
+      {
+        "start_date": "09/05/2017",
+        "usd_price": 20143.48
+      },
+      {
+        "start_date": "15/05/2018",
+        "usd_price": 17459.65
+      },
+      {
+        "start_date": "29/05/2018",
+        "usd_price": 17208.64
+      },
+      {
+        "start_date": "07/12/2018",
+        "usd_price": 16468.76
+      },
+      {
+        "start_date": "23/04/2019",
+        "usd_price": 16271.62
+      },
+      {
+        "start_date": "06/08/2020",
+        "usd_price": 12009.17
+      },
+      {
+        "start_date": "18/12/2020",
+        "usd_price": 12585.13
+      },
+      {
+        "start_date": "17/03/2021",
+        "usd_price": 11340.92
+      },
+      {
+        "start_date": "22/09/2021",
+        "usd_price": 12156.62
+      },
+      {
+        "start_date": "04/08/2022",
+        "usd_price": 12243.38
+      },
+      {
+        "start_date": "01/10/2024",
+        "usd_price": 11769.05
+      }
+    ]
+  },
+  {
+    "product_id": 52,
+    "product_name": "Motor Diesel Honda Zen Tidal Mako 26HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "19/11/2018",
+        "usd_price": 3649.85
+      },
+      {
+        "start_date": "10/09/2020",
+        "usd_price": 2589.1
+      },
+      {
+        "start_date": "11/01/2023",
+        "usd_price": 2634.69
+      },
+      {
+        "start_date": "29/07/2024",
+        "usd_price": 2426.66
+      },
+      {
+        "start_date": "14/11/2025",
+        "usd_price": 2588.32
+      }
+    ]
+  },
+  {
+    "product_id": 53,
+    "product_name": "Motor Elétrico Torqeedo Zen Titan Hydra 129HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "14/02/2018",
+        "usd_price": 16499.65
+      },
+      {
+        "start_date": "12/06/2019",
+        "usd_price": 13966.59
+      },
+      {
+        "start_date": "02/12/2019",
+        "usd_price": 12702.64
+      },
+      {
+        "start_date": "03/12/2019",
+        "usd_price": 12779.16
+      },
+      {
+        "start_date": "17/09/2020",
+        "usd_price": 10206.9
+      },
+      {
+        "start_date": "24/12/2020",
+        "usd_price": 10364.97
+      },
+      {
+        "start_date": "19/07/2022",
+        "usd_price": 9958.63
+      },
+      {
+        "start_date": "02/01/2023",
+        "usd_price": 10045.86
+      },
+      {
+        "start_date": "26/07/2023",
+        "usd_price": 11332.93
+      },
+      {
+        "start_date": "28/06/2024",
+        "usd_price": 9656.73
+      },
+      {
+        "start_date": "06/08/2024",
+        "usd_price": 9496.3
+      },
+      {
+        "start_date": "20/03/2025",
+        "usd_price": 9479.53
+      },
+      {
+        "start_date": "26/09/2025",
+        "usd_price": 10044.16
+      }
+    ]
+  },
+  {
+    "product_id": 54,
+    "product_name": "Motor de Popa Yamaha Evo Dash 155HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/05/2016",
+        "usd_price": 34695.49
+      },
+      {
+        "start_date": "28/09/2017",
+        "usd_price": 38140.54
+      },
+      {
+        "start_date": "12/02/2019",
+        "usd_price": 32591.8
+      },
+      {
+        "start_date": "06/08/2021",
+        "usd_price": 23191.9
+      }
+    ]
+  },
+  {
+    "product_id": 55,
+    "product_name": "Motor Diesel Volvo Flow Oceanic 259HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "19/01/2021",
+        "usd_price": 20776.21
+      },
+      {
+        "start_date": "14/04/2022",
+        "usd_price": 23326.09
+      },
+      {
+        "start_date": "06/02/2024",
+        "usd_price": 22138.68
+      }
+    ]
+  },
+  {
+    "product_id": 56,
+    "product_name": "Motor Elétrico Torqeedo Velocity Swift 74HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "07/12/2016",
+        "usd_price": 12685.17
+      },
+      {
+        "start_date": "19/12/2022",
+        "usd_price": 8087.59
+      },
+      {
+        "start_date": "31/01/2025",
+        "usd_price": 7374.35
+      }
+    ]
+  },
+  {
+    "product_id": 57,
+    "product_name": "Motor de Popa Honda Vector Kinetic 174HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "17/11/2017",
+        "usd_price": 36236.52
+      },
+      {
+        "start_date": "02/03/2018",
+        "usd_price": 36429.89
+      },
+      {
+        "start_date": "24/08/2018",
+        "usd_price": 29081.12
+      },
+      {
+        "start_date": "09/01/2019",
+        "usd_price": 32170.77
+      },
+      {
+        "start_date": "26/05/2020",
+        "usd_price": 22120.74
+      },
+      {
+        "start_date": "14/08/2020",
+        "usd_price": 22061.17
+      },
+      {
+        "start_date": "22/11/2021",
+        "usd_price": 21275.29
+      },
+      {
+        "start_date": "16/12/2022",
+        "usd_price": 22497.79
+      },
+      {
+        "start_date": "22/03/2024",
+        "usd_price": 23810.02
+      },
+      {
+        "start_date": "26/11/2024",
+        "usd_price": 20486.78
+      }
+    ]
+  },
+  {
+    "product_id": 58,
+    "product_name": "Motor de Popa Tohatsu Ion Core Nautic 53HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/11/2017",
+        "usd_price": 33176.21
+      },
+      {
+        "start_date": "08/05/2019",
+        "usd_price": 27663.99
+      },
+      {
+        "start_date": "19/02/2021",
+        "usd_price": 20183.35
+      },
+      {
+        "start_date": "13/07/2022",
+        "usd_price": 20157.55
+      },
+      {
+        "start_date": "30/07/2024",
+        "usd_price": 19252.13
+      },
+      {
+        "start_date": "23/08/2024",
+        "usd_price": 19694.26
+      },
+      {
+        "start_date": "30/07/2025",
+        "usd_price": 19423.25
+      },
+      {
+        "start_date": "27/11/2025",
+        "usd_price": 20347.13
+      }
+    ]
+  },
+  {
+    "product_id": 59,
+    "product_name": "Motor Diesel Yanmar Hydro Magnum Boost 267HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "25/09/2017",
+        "usd_price": 27754.61
+      },
+      {
+        "start_date": "31/10/2017",
+        "usd_price": 26605.05
+      },
+      {
+        "start_date": "20/03/2019",
+        "usd_price": 23004.44
+      },
+      {
+        "start_date": "14/06/2019",
+        "usd_price": 22461.45
+      },
+      {
+        "start_date": "26/07/2019",
+        "usd_price": 23099.55
+      },
+      {
+        "start_date": "10/08/2021",
+        "usd_price": 16694.98
+      },
+      {
+        "start_date": "08/09/2023",
+        "usd_price": 17493.05
+      },
+      {
+        "start_date": "14/09/2023",
+        "usd_price": 17882.07
+      },
+      {
+        "start_date": "08/03/2024",
+        "usd_price": 17522.59
+      },
+      {
+        "start_date": "04/09/2024",
+        "usd_price": 15467.88
+      },
+      {
+        "start_date": "16/10/2024",
+        "usd_price": 15361.57
+      },
+      {
+        "start_date": "07/01/2025",
+        "usd_price": 14351.88
+      }
+    ]
+  },
+  {
+    "product_id": 60,
+    "product_name": "Motor de Popa Honda Velocity Drift 258HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "01/02/2016",
+        "usd_price": 27202.05
+      },
+      {
+        "start_date": "20/07/2018",
+        "usd_price": 28780.03
+      },
+      {
+        "start_date": "22/08/2018",
+        "usd_price": 26697.87
+      },
+      {
+        "start_date": "21/09/2018",
+        "usd_price": 26705.73
+      },
+      {
+        "start_date": "01/02/2021",
+        "usd_price": 19917.05
+      },
+      {
+        "start_date": "24/03/2021",
+        "usd_price": 19657.13
+      },
+      {
+        "start_date": "15/04/2021",
+        "usd_price": 19341.09
+      },
+      {
+        "start_date": "09/08/2023",
+        "usd_price": 22190.02
+      },
+      {
+        "start_date": "22/12/2023",
+        "usd_price": 22370.78
+      },
+      {
+        "start_date": "27/08/2024",
+        "usd_price": 19786.24
+      },
+      {
+        "start_date": "29/04/2025",
+        "usd_price": 19261.28
+      }
+    ]
+  },
+  {
+    "product_id": 61,
+    "product_name": "Motor Diesel Honda Prime 84HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "06/12/2018",
+        "usd_price": 7152.72
+      },
+      {
+        "start_date": "13/02/2020",
+        "usd_price": 6458.44
+      },
+      {
+        "start_date": "04/11/2022",
+        "usd_price": 5564.33
+      },
+      {
+        "start_date": "23/01/2023",
+        "usd_price": 5396.92
+      },
+      {
+        "start_date": "26/08/2024",
+        "usd_price": 5102.18
+      }
+    ]
+  },
+  {
+    "product_id": 62,
+    "product_name": "Motor Diesel Yanmar Velocity 37HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "21/08/2018",
+        "usd_price": 25640.75
+      },
+      {
+        "start_date": "24/12/2019",
+        "usd_price": 25058.7
+      },
+      {
+        "start_date": "21/02/2022",
+        "usd_price": 20047.06
+      },
+      {
+        "start_date": "04/07/2022",
+        "usd_price": 19275.53
+      },
+      {
+        "start_date": "03/01/2023",
+        "usd_price": 19016.98
+      },
+      {
+        "start_date": "16/01/2023",
+        "usd_price": 20000.78
+      }
+    ]
+  },
+  {
+    "product_id": 63,
+    "product_name": "Motor Elétrico Torqeedo Ion Orca Vox 186HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/02/2017",
+        "usd_price": 45881.74
+      },
+      {
+        "start_date": "30/05/2017",
+        "usd_price": 42862.12
+      },
+      {
+        "start_date": "21/03/2018",
+        "usd_price": 42520.94
+      },
+      {
+        "start_date": "15/07/2021",
+        "usd_price": 27445.91
+      },
+      {
+        "start_date": "29/07/2021",
+        "usd_price": 27618.14
+      },
+      {
+        "start_date": "15/05/2025",
+        "usd_price": 24849.56
+      }
+    ]
+  },
+  {
+    "product_id": 64,
+    "product_name": "Motor Elétrico Yamaha Swift Drift Current 265HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "15/12/2016",
+        "usd_price": 32966.4
+      },
+      {
+        "start_date": "13/01/2017",
+        "usd_price": 34815.02
+      },
+      {
+        "start_date": "19/01/2017",
+        "usd_price": 34729.36
+      },
+      {
+        "start_date": "17/12/2020",
+        "usd_price": 22034.06
+      },
+      {
+        "start_date": "09/08/2021",
+        "usd_price": 21131.28
+      },
+      {
+        "start_date": "14/07/2022",
+        "usd_price": 20436.49
+      },
+      {
+        "start_date": "06/09/2022",
+        "usd_price": 21352.22
+      },
+      {
+        "start_date": "26/02/2025",
+        "usd_price": 19307.99
+      }
+    ]
+  },
+  {
+    "product_id": 65,
+    "product_name": "Motor de Popa Torqeedo Nautic Swift 223HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "27/01/2016",
+        "usd_price": 6319.75
+      },
+      {
+        "start_date": "07/12/2016",
+        "usd_price": 7541.59
+      },
+      {
+        "start_date": "13/06/2022",
+        "usd_price": 5008.66
+      },
+      {
+        "start_date": "11/08/2023",
+        "usd_price": 5225.24
+      },
+      {
+        "start_date": "17/05/2024",
+        "usd_price": 4996.52
+      },
+      {
+        "start_date": "13/01/2025",
+        "usd_price": 4184.78
+      }
+    ]
+  },
+  {
+    "product_id": 66,
+    "product_name": "Motor de Popa Tohatsu Poseidon Helix Prime 135HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "04/10/2018",
+        "usd_price": 3220.11
+      },
+      {
+        "start_date": "05/01/2021",
+        "usd_price": 2360.29
+      },
+      {
+        "start_date": "08/07/2024",
+        "usd_price": 2297.7
+      },
+      {
+        "start_date": "14/02/2025",
+        "usd_price": 2194.88
+      }
+    ]
+  },
+  {
+    "product_id": 67,
+    "product_name": "Motor de Popa Yamaha Mako 108HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "12/05/2017",
+        "usd_price": 27422.66
+      },
+      {
+        "start_date": "10/08/2018",
+        "usd_price": 22302.57
+      },
+      {
+        "start_date": "26/02/2019",
+        "usd_price": 22822.91
+      },
+      {
+        "start_date": "15/10/2019",
+        "usd_price": 20681.03
+      },
+      {
+        "start_date": "17/06/2022",
+        "usd_price": 16720.73
+      }
+    ]
+  },
+  {
+    "product_id": 68,
+    "product_name": "Motor de Popa Honda Ion Vox Prime 163HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "02/05/2016",
+        "usd_price": 19121.65
+      },
+      {
+        "start_date": "04/12/2017",
+        "usd_price": 20583.72
+      },
+      {
+        "start_date": "20/02/2019",
+        "usd_price": 18034.48
+      },
+      {
+        "start_date": "13/05/2020",
+        "usd_price": 11335.42
+      },
+      {
+        "start_date": "27/10/2020",
+        "usd_price": 11843.55
+      },
+      {
+        "start_date": "18/03/2021",
+        "usd_price": 12060.49
+      },
+      {
+        "start_date": "24/08/2021",
+        "usd_price": 12619.48
+      },
+      {
+        "start_date": "10/09/2021",
+        "usd_price": 12827.33
+      },
+      {
+        "start_date": "30/12/2021",
+        "usd_price": 11988.94
+      },
+      {
+        "start_date": "18/04/2023",
+        "usd_price": 13467.77
+      },
+      {
+        "start_date": "26/04/2023",
+        "usd_price": 13226.26
+      },
+      {
+        "start_date": "21/06/2023",
+        "usd_price": 13998.43
+      },
+      {
+        "start_date": "04/04/2024",
+        "usd_price": 13317.89
+      },
+      {
+        "start_date": "20/10/2025",
+        "usd_price": 12442.5
+      }
+    ]
+  },
+  {
+    "product_id": 69,
+    "product_name": "Motor de Popa Torqeedo Ultra Impulse 292HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/08/2016",
+        "usd_price": 14259.84
+      },
+      {
+        "start_date": "01/08/2017",
+        "usd_price": 14529.44
+      },
+      {
+        "start_date": "13/11/2018",
+        "usd_price": 11979.31
+      },
+      {
+        "start_date": "11/03/2020",
+        "usd_price": 9686.09
+      },
+      {
+        "start_date": "03/04/2020",
+        "usd_price": 8542.02
+      },
+      {
+        "start_date": "15/05/2023",
+        "usd_price": 9219.51
+      },
+      {
+        "start_date": "18/04/2024",
+        "usd_price": 8620.92
+      },
+      {
+        "start_date": "11/10/2024",
+        "usd_price": 8046.11
+      },
+      {
+        "start_date": "15/07/2025",
+        "usd_price": 8145.73
+      },
+      {
+        "start_date": "13/08/2025",
+        "usd_price": 8394.54
+      }
+    ]
+  },
+  {
+    "product_id": 70,
+    "product_name": "Motor Diesel Parsun Boost Helix Velocity 146HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "11/10/2018",
+        "usd_price": 9172.7
+      },
+      {
+        "start_date": "18/12/2018",
+        "usd_price": 8811.12
+      },
+      {
+        "start_date": "26/08/2019",
+        "usd_price": 8306.24
+      },
+      {
+        "start_date": "20/01/2020",
+        "usd_price": 8214.48
+      },
+      {
+        "start_date": "07/04/2021",
+        "usd_price": 6150.49
+      },
+      {
+        "start_date": "25/01/2022",
+        "usd_price": 6250.42
+      },
+      {
+        "start_date": "08/06/2022",
+        "usd_price": 7053.78
+      },
+      {
+        "start_date": "09/11/2022",
+        "usd_price": 6655.06
+      },
+      {
+        "start_date": "29/07/2024",
+        "usd_price": 6083.51
+      },
+      {
+        "start_date": "06/11/2024",
+        "usd_price": 5960.14
+      },
+      {
+        "start_date": "31/12/2024",
+        "usd_price": 5548.63
+      },
+      {
+        "start_date": "29/12/2025",
+        "usd_price": 6164.29
+      }
+    ]
+  },
+  {
+    "product_id": 71,
+    "product_name": "Motor Elétrico Torqeedo Pulse 300HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "24/01/2018",
+        "usd_price": 40725.21
+      },
+      {
+        "start_date": "06/01/2020",
+        "usd_price": 32103.69
+      },
+      {
+        "start_date": "05/03/2020",
+        "usd_price": 28175.59
+      },
+      {
+        "start_date": "04/09/2020",
+        "usd_price": 24634.58
+      },
+      {
+        "start_date": "04/07/2022",
+        "usd_price": 24546.32
+      },
+      {
+        "start_date": "15/08/2022",
+        "usd_price": 25564.93
+      },
+      {
+        "start_date": "29/11/2022",
+        "usd_price": 24528.75
+      },
+      {
+        "start_date": "04/04/2023",
+        "usd_price": 25647.03
+      },
+      {
+        "start_date": "30/06/2023",
+        "usd_price": 27014.91
+      },
+      {
+        "start_date": "26/07/2023",
+        "usd_price": 27484.92
+      },
+      {
+        "start_date": "29/08/2024",
+        "usd_price": 23100.17
+      }
+    ]
+  },
+  {
+    "product_id": 72,
+    "product_name": "Motor de Popa Volvo Hydro Dash 256HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "19/05/2017",
+        "usd_price": 30319.01
+      },
+      {
+        "start_date": "09/03/2018",
+        "usd_price": 30675.48
+      },
+      {
+        "start_date": "11/03/2025",
+        "usd_price": 17083.12
+      }
+    ]
+  },
+  {
+    "product_id": 73,
+    "product_name": "Motor de Popa Torqeedo Core Hydra Flux 162HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "02/12/2016",
+        "usd_price": 41323.15
+      },
+      {
+        "start_date": "10/08/2017",
+        "usd_price": 45394.28
+      },
+      {
+        "start_date": "12/01/2018",
+        "usd_price": 44470.65
+      },
+      {
+        "start_date": "12/06/2018",
+        "usd_price": 38652.18
+      },
+      {
+        "start_date": "29/10/2018",
+        "usd_price": 39370.75
+      },
+      {
+        "start_date": "11/12/2018",
+        "usd_price": 36701.09
+      },
+      {
+        "start_date": "11/06/2019",
+        "usd_price": 37032.42
+      },
+      {
+        "start_date": "12/04/2021",
+        "usd_price": 25304.0
+      },
+      {
+        "start_date": "12/07/2021",
+        "usd_price": 27407.95
+      },
+      {
+        "start_date": "20/01/2023",
+        "usd_price": 27541.35
+      },
+      {
+        "start_date": "22/03/2024",
+        "usd_price": 28694.54
+      },
+      {
+        "start_date": "21/08/2024",
+        "usd_price": 26171.36
+      },
+      {
+        "start_date": "10/10/2024",
+        "usd_price": 25649.93
+      },
+      {
+        "start_date": "17/12/2025",
+        "usd_price": 25987.97
+      }
+    ]
+  },
+  {
+    "product_id": 74,
+    "product_name": "Motor de Popa Honda Torque 228HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "15/08/2016",
+        "usd_price": 27334.86
+      },
+      {
+        "start_date": "19/12/2018",
+        "usd_price": 22250.99
+      },
+      {
+        "start_date": "05/04/2023",
+        "usd_price": 17160.36
+      },
+      {
+        "start_date": "24/01/2025",
+        "usd_price": 14691.11
+      },
+      {
+        "start_date": "26/06/2025",
+        "usd_price": 15698.25
+      }
+    ]
+  },
+  {
+    "product_id": 75,
+    "product_name": "Motor Diesel Volvo Flow Leviathan Maré 187HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "23/05/2016",
+        "usd_price": 9190.66
+      },
+      {
+        "start_date": "31/07/2020",
+        "usd_price": 6298.34
+      },
+      {
+        "start_date": "07/02/2022",
+        "usd_price": 6193.58
+      },
+      {
+        "start_date": "28/08/2024",
+        "usd_price": 5924.6
+      }
+    ]
+  },
+  {
+    "product_id": 76,
+    "product_name": "Motor Diesel Honda Aero 205HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "18/02/2016",
+        "usd_price": 36971.92
+      },
+      {
+        "start_date": "21/06/2016",
+        "usd_price": 43727.9
+      },
+      {
+        "start_date": "26/10/2016",
+        "usd_price": 47479.65
+      },
+      {
+        "start_date": "21/12/2016",
+        "usd_price": 44516.0
+      },
+      {
+        "start_date": "16/02/2017",
+        "usd_price": 48583.21
+      },
+      {
+        "start_date": "19/11/2018",
+        "usd_price": 39470.06
+      },
+      {
+        "start_date": "12/09/2019",
+        "usd_price": 36603.0
+      },
+      {
+        "start_date": "08/01/2020",
+        "usd_price": 36442.79
+      },
+      {
+        "start_date": "16/12/2020",
+        "usd_price": 29029.45
+      },
+      {
+        "start_date": "04/07/2022",
+        "usd_price": 27945.06
+      },
+      {
+        "start_date": "15/04/2024",
+        "usd_price": 28642.87
+      },
+      {
+        "start_date": "24/07/2024",
+        "usd_price": 26304.27
+      },
+      {
+        "start_date": "23/08/2024",
+        "usd_price": 26819.81
+      },
+      {
+        "start_date": "13/11/2025",
+        "usd_price": 28060.41
+      }
+    ]
+  },
+  {
+    "product_id": 77,
+    "product_name": "Motor Diesel Tohatsu Vector 197HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "07/06/2016",
+        "usd_price": 12868.73
+      },
+      {
+        "start_date": "22/11/2016",
+        "usd_price": 13356.64
+      },
+      {
+        "start_date": "09/01/2017",
+        "usd_price": 13930.59
+      },
+      {
+        "start_date": "25/07/2017",
+        "usd_price": 14169.47
+      },
+      {
+        "start_date": "23/10/2017",
+        "usd_price": 13971.52
+      },
+      {
+        "start_date": "22/10/2020",
+        "usd_price": 8009.58
+      },
+      {
+        "start_date": "29/07/2022",
+        "usd_price": 8617.27
+      },
+      {
+        "start_date": "02/02/2023",
+        "usd_price": 8959.75
+      },
+      {
+        "start_date": "16/12/2024",
+        "usd_price": 7388.71
+      },
+      {
+        "start_date": "30/12/2024",
+        "usd_price": 7220.1
+      },
+      {
+        "start_date": "01/04/2025",
+        "usd_price": 7836.74
+      },
+      {
+        "start_date": "23/07/2025",
+        "usd_price": 8050.4
+      }
+    ]
+  },
+  {
+    "product_id": 78,
+    "product_name": "Motor Elétrico Honda Mako Axis 131HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "22/12/2016",
+        "usd_price": 36569.43
+      },
+      {
+        "start_date": "06/07/2022",
+        "usd_price": 22417.67
+      },
+      {
+        "start_date": "14/10/2022",
+        "usd_price": 23053.04
+      },
+      {
+        "start_date": "18/07/2023",
+        "usd_price": 25349.04
+      },
+      {
+        "start_date": "27/03/2024",
+        "usd_price": 24425.59
+      }
+    ]
+  },
+  {
+    "product_id": 79,
+    "product_name": "Motor Diesel Tohatsu Zenith 60HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "12/02/2016",
+        "usd_price": 16584.81
+      },
+      {
+        "start_date": "05/11/2018",
+        "usd_price": 17857.26
+      },
+      {
+        "start_date": "03/10/2019",
+        "usd_price": 16131.02
+      },
+      {
+        "start_date": "23/12/2020",
+        "usd_price": 12785.95
+      },
+      {
+        "start_date": "21/10/2021",
+        "usd_price": 11724.63
+      },
+      {
+        "start_date": "27/02/2024",
+        "usd_price": 13344.4
+      },
+      {
+        "start_date": "18/07/2024",
+        "usd_price": 11935.56
+      },
+      {
+        "start_date": "13/09/2024",
+        "usd_price": 11873.21
+      },
+      {
+        "start_date": "27/11/2024",
+        "usd_price": 11348.86
+      },
+      {
+        "start_date": "15/01/2025",
+        "usd_price": 10956.73
+      },
+      {
+        "start_date": "27/01/2025",
+        "usd_price": 11161.01
+      },
+      {
+        "start_date": "24/11/2025",
+        "usd_price": 12262.59
+      }
+    ]
+  },
+  {
+    "product_id": 80,
+    "product_name": "Motor de Popa Volvo Maré 69HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "26/09/2019",
+        "usd_price": 31166.06
+      },
+      {
+        "start_date": "14/07/2021",
+        "usd_price": 25400.76
+      },
+      {
+        "start_date": "16/07/2021",
+        "usd_price": 25370.34
+      },
+      {
+        "start_date": "22/06/2022",
+        "usd_price": 25090.55
+      },
+      {
+        "start_date": "28/10/2022",
+        "usd_price": 24177.04
+      },
+      {
+        "start_date": "07/11/2025",
+        "usd_price": 24126.48
+      }
+    ]
+  },
+  {
+    "product_id": 81,
+    "product_name": "Motor Elétrico Torqeedo Barracuda Magnum Helix 101HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/05/2016",
+        "usd_price": 34870.68
+      },
+      {
+        "start_date": "28/06/2016",
+        "usd_price": 36724.24
+      },
+      {
+        "start_date": "22/07/2016",
+        "usd_price": 37185.97
+      },
+      {
+        "start_date": "17/08/2016",
+        "usd_price": 37884.9
+      },
+      {
+        "start_date": "27/09/2016",
+        "usd_price": 37756.09
+      },
+      {
+        "start_date": "03/10/2016",
+        "usd_price": 37779.44
+      },
+      {
+        "start_date": "16/06/2017",
+        "usd_price": 37143.01
+      },
+      {
+        "start_date": "24/06/2021",
+        "usd_price": 24791.15
+      },
+      {
+        "start_date": "02/08/2022",
+        "usd_price": 23345.09
+      },
+      {
+        "start_date": "09/05/2024",
+        "usd_price": 23685.5
+      },
+      {
+        "start_date": "14/05/2025",
+        "usd_price": 21775.68
+      }
+    ]
+  },
+  {
+    "product_id": 82,
+    "product_name": "Motor Elétrico Volvo Nautic Vox 118HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "12/06/2017",
+        "usd_price": 15656.17
+      },
+      {
+        "start_date": "20/11/2017",
+        "usd_price": 15834.78
+      },
+      {
+        "start_date": "11/09/2020",
+        "usd_price": 9770.29
+      },
+      {
+        "start_date": "07/11/2025",
+        "usd_price": 9640.23
+      }
+    ]
+  },
+  {
+    "product_id": 83,
+    "product_name": "Motor Diesel Yanmar Dash Nitro 184HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "31/10/2018",
+        "usd_price": 36265.87
+      },
+      {
+        "start_date": "25/01/2019",
+        "usd_price": 35839.7
+      },
+      {
+        "start_date": "19/11/2025",
+        "usd_price": 25272.57
+      }
+    ]
+  },
+  {
+    "product_id": 84,
+    "product_name": "Motor de Popa Torqeedo Zenith Peak Thrust 212HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "07/03/2016",
+        "usd_price": 11515.83
+      },
+      {
+        "start_date": "13/08/2019",
+        "usd_price": 10929.75
+      },
+      {
+        "start_date": "04/02/2020",
+        "usd_price": 10247.52
+      },
+      {
+        "start_date": "12/02/2020",
+        "usd_price": 10014.73
+      },
+      {
+        "start_date": "28/04/2021",
+        "usd_price": 8041.61
+      },
+      {
+        "start_date": "11/04/2023",
+        "usd_price": 8663.64
+      },
+      {
+        "start_date": "10/08/2023",
+        "usd_price": 8951.16
+      },
+      {
+        "start_date": "14/05/2024",
+        "usd_price": 8456.45
+      }
+    ]
+  },
+  {
+    "product_id": 85,
+    "product_name": "Motor de Popa Parsun Impulse 162HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "28/07/2016",
+        "usd_price": 11785.51
+      },
+      {
+        "start_date": "23/12/2022",
+        "usd_price": 7499.89
+      },
+      {
+        "start_date": "23/11/2023",
+        "usd_price": 7885.27
+      },
+      {
+        "start_date": "07/01/2025",
+        "usd_price": 6351.97
+      }
+    ]
+  },
+  {
+    "product_id": 86,
+    "product_name": "Motor Diesel Volvo Helix Evo Force 144HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "25/04/2018",
+        "usd_price": 26694.96
+      },
+      {
+        "start_date": "18/02/2019",
+        "usd_price": 25066.5
+      },
+      {
+        "start_date": "08/03/2019",
+        "usd_price": 24183.68
+      },
+      {
+        "start_date": "05/09/2019",
+        "usd_price": 22892.6
+      },
+      {
+        "start_date": "08/10/2019",
+        "usd_price": 22887.56
+      },
+      {
+        "start_date": "26/03/2020",
+        "usd_price": 18703.13
+      },
+      {
+        "start_date": "13/08/2021",
+        "usd_price": 17824.79
+      },
+      {
+        "start_date": "04/12/2024",
+        "usd_price": 15439.23
+      },
+      {
+        "start_date": "30/05/2025",
+        "usd_price": 16384.28
+      },
+      {
+        "start_date": "23/07/2025",
+        "usd_price": 16841.61
+      }
+    ]
+  },
+  {
+    "product_id": 87,
+    "product_name": "Motor Elétrico Volvo Boost 225HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "23/09/2016",
+        "usd_price": 20740.76
+      },
+      {
+        "start_date": "04/10/2017",
+        "usd_price": 21354.85
+      },
+      {
+        "start_date": "13/10/2017",
+        "usd_price": 21180.31
+      },
+      {
+        "start_date": "24/06/2019",
+        "usd_price": 17489.77
+      },
+      {
+        "start_date": "27/06/2019",
+        "usd_price": 17305.08
+      },
+      {
+        "start_date": "30/10/2020",
+        "usd_price": 11585.09
+      },
+      {
+        "start_date": "13/10/2021",
+        "usd_price": 12054.65
+      },
+      {
+        "start_date": "01/11/2021",
+        "usd_price": 11794.37
+      },
+      {
+        "start_date": "04/09/2023",
+        "usd_price": 13597.7
+      }
+    ]
+  },
+  {
+    "product_id": 88,
+    "product_name": "Motor Diesel Tohatsu Kinetic Poseidon 113HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "05/07/2018",
+        "usd_price": 12335.14
+      },
+      {
+        "start_date": "15/03/2019",
+        "usd_price": 12607.98
+      },
+      {
+        "start_date": "03/04/2019",
+        "usd_price": 12577.8
+      },
+      {
+        "start_date": "12/12/2019",
+        "usd_price": 11764.71
+      },
+      {
+        "start_date": "22/07/2021",
+        "usd_price": 9300.49
+      },
+      {
+        "start_date": "25/04/2022",
+        "usd_price": 9902.58
+      },
+      {
+        "start_date": "22/07/2022",
+        "usd_price": 8866.48
+      },
+      {
+        "start_date": "07/02/2023",
+        "usd_price": 9351.41
+      },
+      {
+        "start_date": "28/06/2023",
+        "usd_price": 9954.59
+      },
+      {
+        "start_date": "08/01/2024",
+        "usd_price": 9896.1
+      }
+    ]
+  },
+  {
+    "product_id": 89,
+    "product_name": "Motor Elétrico Yamaha Orca Storm Zenith 11HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "27/06/2019",
+        "usd_price": 20363.92
+      },
+      {
+        "start_date": "25/01/2021",
+        "usd_price": 14285.88
+      },
+      {
+        "start_date": "30/07/2021",
+        "usd_price": 15363.81
+      },
+      {
+        "start_date": "05/08/2021",
+        "usd_price": 15289.46
+      },
+      {
+        "start_date": "22/08/2022",
+        "usd_price": 15217.31
+      },
+      {
+        "start_date": "11/11/2022",
+        "usd_price": 14832.32
+      },
+      {
+        "start_date": "13/09/2024",
+        "usd_price": 14122.53
+      }
+    ]
+  },
+  {
+    "product_id": 90,
+    "product_name": "Motor de Popa Yamaha Thrust Marlin Nexus 182HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "25/01/2017",
+        "usd_price": 24968.38
+      },
+      {
+        "start_date": "04/08/2017",
+        "usd_price": 25337.09
+      },
+      {
+        "start_date": "19/10/2017",
+        "usd_price": 24930.6
+      },
+      {
+        "start_date": "07/08/2019",
+        "usd_price": 19851.75
+      },
+      {
+        "start_date": "26/08/2021",
+        "usd_price": 15088.29
+      },
+      {
+        "start_date": "01/12/2021",
+        "usd_price": 14083.78
+      },
+      {
+        "start_date": "08/12/2023",
+        "usd_price": 16092.39
+      },
+      {
+        "start_date": "24/01/2024",
+        "usd_price": 16081.27
+      },
+      {
+        "start_date": "25/06/2024",
+        "usd_price": 14571.29
+      },
+      {
+        "start_date": "20/02/2025",
+        "usd_price": 13873.56
+      },
+      {
+        "start_date": "31/07/2025",
+        "usd_price": 14120.74
+      },
+      {
+        "start_date": "02/09/2025",
+        "usd_price": 14467.08
+      }
+    ]
+  },
+  {
+    "product_id": 91,
+    "product_name": "Motor Elétrico Tohatsu Zenith Oceanic 113HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "02/12/2016",
+        "usd_price": 38934.89
+      },
+      {
+        "start_date": "24/07/2019",
+        "usd_price": 35883.48
+      },
+      {
+        "start_date": "16/03/2022",
+        "usd_price": 26303.31
+      },
+      {
+        "start_date": "14/09/2023",
+        "usd_price": 27671.77
+      }
+    ]
+  },
+  {
+    "product_id": 92,
+    "product_name": "Motor Elétrico Yamaha Nautic Kraken 133HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "04/03/2016",
+        "usd_price": 23897.07
+      },
+      {
+        "start_date": "16/05/2017",
+        "usd_price": 28738.63
+      },
+      {
+        "start_date": "18/12/2017",
+        "usd_price": 27027.86
+      },
+      {
+        "start_date": "16/03/2018",
+        "usd_price": 27008.15
+      },
+      {
+        "start_date": "03/07/2018",
+        "usd_price": 22833.45
+      },
+      {
+        "start_date": "03/04/2019",
+        "usd_price": 23121.03
+      },
+      {
+        "start_date": "04/04/2019",
+        "usd_price": 22955.56
+      },
+      {
+        "start_date": "15/05/2019",
+        "usd_price": 22199.65
+      },
+      {
+        "start_date": "10/06/2019",
+        "usd_price": 22909.99
+      },
+      {
+        "start_date": "14/06/2019",
+        "usd_price": 22896.41
+      },
+      {
+        "start_date": "08/03/2021",
+        "usd_price": 15496.82
+      },
+      {
+        "start_date": "22/03/2022",
+        "usd_price": 18059.04
+      },
+      {
+        "start_date": "12/12/2022",
+        "usd_price": 16745.97
+      },
+      {
+        "start_date": "28/06/2024",
+        "usd_price": 15985.84
+      },
+      {
+        "start_date": "08/07/2024",
+        "usd_price": 16239.74
+      }
+    ]
+  },
+  {
+    "product_id": 93,
+    "product_name": "Motor Elétrico Yamaha Flow 204HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "14/12/2017",
+        "usd_price": 30149.74
+      },
+      {
+        "start_date": "08/04/2019",
+        "usd_price": 25995.29
+      },
+      {
+        "start_date": "20/07/2021",
+        "usd_price": 19153.44
+      },
+      {
+        "start_date": "27/10/2021",
+        "usd_price": 18051.6
+      },
+      {
+        "start_date": "16/11/2021",
+        "usd_price": 18346.6
+      },
+      {
+        "start_date": "18/08/2022",
+        "usd_price": 19409.47
+      },
+      {
+        "start_date": "04/06/2024",
+        "usd_price": 19072.72
+      },
+      {
+        "start_date": "18/11/2024",
+        "usd_price": 17444.83
+      },
+      {
+        "start_date": "08/07/2025",
+        "usd_price": 18414.19
+      }
+    ]
+  },
+  {
+    "product_id": 94,
+    "product_name": "Motor de Popa Volvo Magnum 276HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "16/05/2017",
+        "usd_price": 13180.3
+      },
+      {
+        "start_date": "30/01/2019",
+        "usd_price": 10970.75
+      },
+      {
+        "start_date": "09/09/2021",
+        "usd_price": 7715.19
+      },
+      {
+        "start_date": "07/01/2022",
+        "usd_price": 7181.14
+      },
+      {
+        "start_date": "31/03/2023",
+        "usd_price": 8022.13
+      },
+      {
+        "start_date": "23/06/2025",
+        "usd_price": 7381.46
+      }
+    ]
+  },
+  {
+    "product_id": 95,
+    "product_name": "Motor Diesel Honda Leviathan 133HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "27/06/2016",
+        "usd_price": 20575.35
+      },
+      {
+        "start_date": "02/09/2016",
+        "usd_price": 21529.08
+      },
+      {
+        "start_date": "14/11/2017",
+        "usd_price": 21264.79
+      },
+      {
+        "start_date": "24/04/2018",
+        "usd_price": 20140.23
+      },
+      {
+        "start_date": "24/10/2018",
+        "usd_price": 18839.54
+      },
+      {
+        "start_date": "26/10/2018",
+        "usd_price": 18997.45
+      },
+      {
+        "start_date": "22/11/2019",
+        "usd_price": 16690.11
+      },
+      {
+        "start_date": "05/07/2021",
+        "usd_price": 13757.18
+      },
+      {
+        "start_date": "23/11/2022",
+        "usd_price": 12945.63
+      },
+      {
+        "start_date": "10/07/2025",
+        "usd_price": 12594.59
+      }
+    ]
+  },
+  {
+    "product_id": 96,
+    "product_name": "Motor de Popa Tohatsu Boost Swift 126HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "08/02/2018",
+        "usd_price": 21605.84
+      },
+      {
+        "start_date": "12/07/2019",
+        "usd_price": 18859.38
+      },
+      {
+        "start_date": "30/03/2020",
+        "usd_price": 13689.39
+      },
+      {
+        "start_date": "13/10/2021",
+        "usd_price": 12732.73
+      },
+      {
+        "start_date": "11/04/2022",
+        "usd_price": 15019.64
+      },
+      {
+        "start_date": "30/09/2022",
+        "usd_price": 13063.42
+      },
+      {
+        "start_date": "02/06/2023",
+        "usd_price": 14251.86
+      },
+      {
+        "start_date": "23/06/2023",
+        "usd_price": 14776.4
+      }
+    ]
+  },
+  {
+    "product_id": 97,
+    "product_name": "Motor de Popa Tohatsu Evo 168HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "08/03/2018",
+        "usd_price": 41626.19
+      },
+      {
+        "start_date": "14/05/2019",
+        "usd_price": 34019.17
+      },
+      {
+        "start_date": "21/11/2019",
+        "usd_price": 32218.03
+      },
+      {
+        "start_date": "15/10/2020",
+        "usd_price": 24095.55
+      },
+      {
+        "start_date": "27/04/2021",
+        "usd_price": 24869.54
+      },
+      {
+        "start_date": "27/07/2021",
+        "usd_price": 26195.74
+      },
+      {
+        "start_date": "02/12/2021",
+        "usd_price": 24021.56
+      },
+      {
+        "start_date": "06/01/2023",
+        "usd_price": 25607.88
+      }
+    ]
+  },
+  {
+    "product_id": 98,
+    "product_name": "Motor Diesel Parsun Velocity Abyss Orca 235HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "24/05/2017",
+        "usd_price": 24326.74
+      },
+      {
+        "start_date": "14/08/2017",
+        "usd_price": 24892.14
+      },
+      {
+        "start_date": "06/09/2018",
+        "usd_price": 19144.38
+      },
+      {
+        "start_date": "02/10/2019",
+        "usd_price": 19104.75
+      },
+      {
+        "start_date": "02/08/2022",
+        "usd_price": 15167.54
+      },
+      {
+        "start_date": "03/10/2022",
+        "usd_price": 15262.93
+      },
+      {
+        "start_date": "29/09/2023",
+        "usd_price": 15850.04
+      },
+      {
+        "start_date": "17/12/2024",
+        "usd_price": 12866.8
+      }
+    ]
+  },
+  {
+    "product_id": 99,
+    "product_name": "Motor Elétrico Honda Flux Ultra 273HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "05/04/2016",
+        "usd_price": 29327.86
+      },
+      {
+        "start_date": "04/08/2016",
+        "usd_price": 33336.44
+      },
+      {
+        "start_date": "17/03/2017",
+        "usd_price": 34525.3
+      },
+      {
+        "start_date": "12/05/2017",
+        "usd_price": 34288.03
+      },
+      {
+        "start_date": "16/10/2017",
+        "usd_price": 33944.07
+      },
+      {
+        "start_date": "27/10/2017",
+        "usd_price": 32708.24
+      },
+      {
+        "start_date": "13/02/2020",
+        "usd_price": 24725.51
+      },
+      {
+        "start_date": "06/08/2020",
+        "usd_price": 20077.99
+      },
+      {
+        "start_date": "25/11/2020",
+        "usd_price": 20049.09
+      },
+      {
+        "start_date": "02/07/2021",
+        "usd_price": 21330.89
+      },
+      {
+        "start_date": "06/08/2024",
+        "usd_price": 18977.86
+      },
+      {
+        "start_date": "20/01/2025",
+        "usd_price": 17732.37
+      }
+    ]
+  },
+  {
+    "product_id": 100,
+    "product_name": "Motor Elétrico Honda Vector Abyss 220HP",
+    "category": "propulsão",
+    "historic_data": [
+      {
+        "start_date": "14/07/2017",
+        "usd_price": 32797.24
+      },
+      {
+        "start_date": "01/08/2017",
+        "usd_price": 33575.22
+      },
+      {
+        "start_date": "08/01/2018",
+        "usd_price": 32332.92
+      },
+      {
+        "start_date": "12/04/2018",
+        "usd_price": 30899.28
+      },
+      {
+        "start_date": "25/03/2020",
+        "usd_price": 20631.21
+      },
+      {
+        "start_date": "13/05/2021",
+        "usd_price": 19807.28
+      },
+      {
+        "start_date": "18/11/2025",
+        "usd_price": 19604.58
+      }
+    ]
+  },
+  {
+    "product_id": 101,
+    "product_name": "Cabo de Nylon Delta Vortex",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "16/06/2016",
+        "usd_price": 132.79
+      },
+      {
+        "start_date": "17/11/2016",
+        "usd_price": 136.11
+      },
+      {
+        "start_date": "25/08/2017",
+        "usd_price": 147.32
+      },
+      {
+        "start_date": "04/05/2018",
+        "usd_price": 131.27
+      },
+      {
+        "start_date": "02/08/2018",
+        "usd_price": 123.12
+      },
+      {
+        "start_date": "23/12/2019",
+        "usd_price": 113.72
+      },
+      {
+        "start_date": "19/05/2020",
+        "usd_price": 81.0
+      },
+      {
+        "start_date": "04/09/2020",
+        "usd_price": 87.7
+      },
+      {
+        "start_date": "14/10/2021",
+        "usd_price": 84.28
+      },
+      {
+        "start_date": "18/10/2022",
+        "usd_price": 87.95
+      },
+      {
+        "start_date": "14/07/2023",
+        "usd_price": 96.64
+      },
+      {
+        "start_date": "04/06/2024",
+        "usd_price": 87.96
+      },
+      {
+        "start_date": "03/07/2024",
+        "usd_price": 82.96
+      },
+      {
+        "start_date": "24/12/2024",
+        "usd_price": 75.32
+      },
+      {
+        "start_date": "06/06/2025",
+        "usd_price": 82.84
+      }
+    ]
+  },
+  {
+    "product_id": 102,
+    "product_name": "Cabo de Nylon Bruce Nexus",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "13/10/2017",
+        "usd_price": 263.57
+      },
+      {
+        "start_date": "15/01/2020",
+        "usd_price": 199.93
+      },
+      {
+        "start_date": "26/02/2025",
+        "usd_price": 144.07
+      }
+    ]
+  },
+  {
+    "product_id": 103,
+    "product_name": "Âncora Delta Swift",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "07/02/2020",
+        "usd_price": 415.41
+      },
+      {
+        "start_date": "21/09/2020",
+        "usd_price": 328.69
+      },
+      {
+        "start_date": "05/01/2021",
+        "usd_price": 335.92
+      },
+      {
+        "start_date": "18/10/2021",
+        "usd_price": 324.2
+      },
+      {
+        "start_date": "19/09/2022",
+        "usd_price": 341.7
+      },
+      {
+        "start_date": "05/07/2024",
+        "usd_price": 325.52
+      },
+      {
+        "start_date": "25/09/2024",
+        "usd_price": 326.91
+      },
+      {
+        "start_date": "04/08/2025",
+        "usd_price": 324.68
+      }
+    ]
+  },
+  {
+    "product_id": 104,
+    "product_name": "Cabo de Nylon Delta Zen Vortex Storm",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "06/04/2016",
+        "usd_price": 1010.54
+      },
+      {
+        "start_date": "31/05/2017",
+        "usd_price": 1144.9
+      },
+      {
+        "start_date": "21/12/2018",
+        "usd_price": 960.31
+      },
+      {
+        "start_date": "15/05/2019",
+        "usd_price": 927.68
+      },
+      {
+        "start_date": "26/03/2020",
+        "usd_price": 742.54
+      }
+    ]
+  },
+  {
+    "product_id": 105,
+    "product_name": "Cabo de Nylon Danforth Prime",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "21/01/2016",
+        "usd_price": 74.49
+      },
+      {
+        "start_date": "10/03/2016",
+        "usd_price": 84.36
+      },
+      {
+        "start_date": "27/05/2016",
+        "usd_price": 85.6
+      },
+      {
+        "start_date": "19/07/2016",
+        "usd_price": 94.39
+      },
+      {
+        "start_date": "09/12/2020",
+        "usd_price": 60.57
+      },
+      {
+        "start_date": "16/08/2021",
+        "usd_price": 58.97
+      },
+      {
+        "start_date": "22/10/2021",
+        "usd_price": 54.2
+      },
+      {
+        "start_date": "24/06/2022",
+        "usd_price": 59.15
+      },
+      {
+        "start_date": "03/04/2023",
+        "usd_price": 61.14
+      },
+      {
+        "start_date": "17/04/2023",
+        "usd_price": 62.64
+      },
+      {
+        "start_date": "03/06/2024",
+        "usd_price": 59.11
+      },
+      {
+        "start_date": "13/06/2024",
+        "usd_price": 57.36
+      },
+      {
+        "start_date": "12/11/2024",
+        "usd_price": 53.66
+      },
+      {
+        "start_date": "25/11/2024",
+        "usd_price": 53.37
+      }
+    ]
+  },
+  {
+    "product_id": 106,
+    "product_name": "Âncora Danforth Nitro Titan Vox",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "18/04/2017",
+        "usd_price": 1416.67
+      },
+      {
+        "start_date": "13/08/2019",
+        "usd_price": 1103.67
+      },
+      {
+        "start_date": "20/11/2019",
+        "usd_price": 1043.35
+      },
+      {
+        "start_date": "28/12/2020",
+        "usd_price": 837.06
+      },
+      {
+        "start_date": "01/08/2023",
+        "usd_price": 918.37
+      },
+      {
+        "start_date": "17/09/2025",
+        "usd_price": 827.26
+      },
+      {
+        "start_date": "29/10/2025",
+        "usd_price": 820.98
+      }
+    ]
+  },
+  {
+    "product_id": 107,
+    "product_name": "Boia de Arqueamento Bruce Tidal Marlin",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "04/03/2016",
+        "usd_price": 407.02
+      },
+      {
+        "start_date": "31/07/2017",
+        "usd_price": 483.49
+      },
+      {
+        "start_date": "26/03/2018",
+        "usd_price": 458.21
+      },
+      {
+        "start_date": "15/06/2018",
+        "usd_price": 401.09
+      },
+      {
+        "start_date": "11/05/2020",
+        "usd_price": 261.16
+      },
+      {
+        "start_date": "21/02/2022",
+        "usd_price": 296.79
+      },
+      {
+        "start_date": "02/06/2022",
+        "usd_price": 316.12
+      },
+      {
+        "start_date": "09/08/2022",
+        "usd_price": 295.48
+      },
+      {
+        "start_date": "16/11/2023",
+        "usd_price": 311.59
+      }
+    ]
+  },
+  {
+    "product_id": 108,
+    "product_name": "Boia de Arqueamento Bruce Titan",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "03/04/2019",
+        "usd_price": 870.56
+      },
+      {
+        "start_date": "04/06/2019",
+        "usd_price": 864.4
+      },
+      {
+        "start_date": "31/07/2019",
+        "usd_price": 888.76
+      },
+      {
+        "start_date": "26/02/2020",
+        "usd_price": 754.3
+      },
+      {
+        "start_date": "10/06/2020",
+        "usd_price": 684.33
+      },
+      {
+        "start_date": "14/06/2022",
+        "usd_price": 653.47
+      },
+      {
+        "start_date": "16/11/2023",
+        "usd_price": 688.83
+      }
+    ]
+  },
+  {
+    "product_id": 109,
+    "product_name": "Cabo de Nylon Danforth Evo Aqua Mako",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "12/01/2017",
+        "usd_price": 196.71
+      },
+      {
+        "start_date": "16/05/2018",
+        "usd_price": 169.23
+      },
+      {
+        "start_date": "01/04/2024",
+        "usd_price": 123.24
+      },
+      {
+        "start_date": "23/04/2025",
+        "usd_price": 109.49
+      }
+    ]
+  },
+  {
+    "product_id": 110,
+    "product_name": "Corrente Bruce Current",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "17/08/2020",
+        "usd_price": 457.97
+      },
+      {
+        "start_date": "26/08/2021",
+        "usd_price": 476.03
+      },
+      {
+        "start_date": "02/09/2024",
+        "usd_price": 443.85
+      }
+    ]
+  },
+  {
+    "product_id": 111,
+    "product_name": "Boia de Arqueamento Danforth Aero Dash",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "13/06/2017",
+        "usd_price": 1290.65
+      },
+      {
+        "start_date": "28/07/2022",
+        "usd_price": 821.82
+      },
+      {
+        "start_date": "12/03/2024",
+        "usd_price": 860.37
+      }
+    ]
+  },
+  {
+    "product_id": 112,
+    "product_name": "Corrente Danforth Tidal",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "24/08/2018",
+        "usd_price": 533.92
+      },
+      {
+        "start_date": "15/05/2019",
+        "usd_price": 544.9
+      },
+      {
+        "start_date": "16/11/2021",
+        "usd_price": 398.23
+      },
+      {
+        "start_date": "29/09/2023",
+        "usd_price": 435.58
+      },
+      {
+        "start_date": "03/04/2024",
+        "usd_price": 430.01
+      },
+      {
+        "start_date": "10/06/2024",
+        "usd_price": 406.44
+      },
+      {
+        "start_date": "28/05/2025",
+        "usd_price": 383.09
+      },
+      {
+        "start_date": "19/08/2025",
+        "usd_price": 398.64
+      },
+      {
+        "start_date": "24/11/2025",
+        "usd_price": 404.31
+      }
+    ]
+  },
+  {
+    "product_id": 113,
+    "product_name": "Âncora Delta Mako Ultra",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "12/01/2017",
+        "usd_price": 1388.39
+      },
+      {
+        "start_date": "18/01/2017",
+        "usd_price": 1364.68
+      },
+      {
+        "start_date": "03/11/2017",
+        "usd_price": 1335.29
+      },
+      {
+        "start_date": "28/06/2018",
+        "usd_price": 1141.1
+      },
+      {
+        "start_date": "29/06/2018",
+        "usd_price": 1140.01
+      },
+      {
+        "start_date": "18/09/2019",
+        "usd_price": 1072.83
+      },
+      {
+        "start_date": "16/10/2019",
+        "usd_price": 1053.75
+      },
+      {
+        "start_date": "31/12/2020",
+        "usd_price": 845.82
+      },
+      {
+        "start_date": "05/02/2021",
+        "usd_price": 815.72
+      },
+      {
+        "start_date": "03/03/2022",
+        "usd_price": 870.75
+      },
+      {
+        "start_date": "05/07/2022",
+        "usd_price": 815.5
+      },
+      {
+        "start_date": "06/08/2024",
+        "usd_price": 777.57
+      },
+      {
+        "start_date": "17/04/2025",
+        "usd_price": 750.6
+      }
+    ]
+  },
+  {
+    "product_id": 114,
+    "product_name": "Boia de Arqueamento Danforth Tidal Zen Swift",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "22/11/2016",
+        "usd_price": 238.81
+      },
+      {
+        "start_date": "13/08/2020",
+        "usd_price": 148.58
+      },
+      {
+        "start_date": "13/01/2022",
+        "usd_price": 144.69
+      },
+      {
+        "start_date": "16/02/2023",
+        "usd_price": 152.46
+      }
+    ]
+  },
+  {
+    "product_id": 115,
+    "product_name": "Cabo de Nylon Delta Force Magnum Leviathan",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "22/08/2016",
+        "usd_price": 258.29
+      },
+      {
+        "start_date": "05/01/2018",
+        "usd_price": 256.33
+      },
+      {
+        "start_date": "11/09/2020",
+        "usd_price": 157.17
+      },
+      {
+        "start_date": "24/01/2023",
+        "usd_price": 160.69
+      },
+      {
+        "start_date": "12/12/2023",
+        "usd_price": 167.9
+      }
+    ]
+  },
+  {
+    "product_id": 116,
+    "product_name": "Cabo de Nylon Delta Velocity Oceanic Abyss",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "31/05/2016",
+        "usd_price": 716.52
+      },
+      {
+        "start_date": "13/08/2018",
+        "usd_price": 660.69
+      },
+      {
+        "start_date": "30/03/2020",
+        "usd_price": 499.25
+      },
+      {
+        "start_date": "14/04/2020",
+        "usd_price": 496.71
+      },
+      {
+        "start_date": "16/03/2022",
+        "usd_price": 502.24
+      }
+    ]
+  },
+  {
+    "product_id": 117,
+    "product_name": "Corrente Danforth Zen Abyss Axis",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "19/04/2016",
+        "usd_price": 1154.74
+      },
+      {
+        "start_date": "20/04/2017",
+        "usd_price": 1304.74
+      },
+      {
+        "start_date": "18/02/2021",
+        "usd_price": 756.57
+      },
+      {
+        "start_date": "10/06/2022",
+        "usd_price": 823.4
+      },
+      {
+        "start_date": "08/09/2025",
+        "usd_price": 756.01
+      }
+    ]
+  },
+  {
+    "product_id": 118,
+    "product_name": "Boia de Arqueamento Delta Force Vox",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "10/07/2017",
+        "usd_price": 1321.87
+      },
+      {
+        "start_date": "19/10/2018",
+        "usd_price": 1163.95
+      },
+      {
+        "start_date": "24/08/2021",
+        "usd_price": 814.0
+      },
+      {
+        "start_date": "23/11/2021",
+        "usd_price": 764.41
+      },
+      {
+        "start_date": "12/07/2022",
+        "usd_price": 797.41
+      },
+      {
+        "start_date": "06/11/2023",
+        "usd_price": 880.76
+      },
+      {
+        "start_date": "27/12/2023",
+        "usd_price": 893.4
+      },
+      {
+        "start_date": "20/09/2024",
+        "usd_price": 787.87
+      }
+    ]
+  },
+  {
+    "product_id": 119,
+    "product_name": "Âncora Bruce Aqua",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "19/05/2016",
+        "usd_price": 904.47
+      },
+      {
+        "start_date": "28/06/2017",
+        "usd_price": 985.9
+      },
+      {
+        "start_date": "05/08/2021",
+        "usd_price": 632.7
+      },
+      {
+        "start_date": "08/12/2022",
+        "usd_price": 625.1
+      },
+      {
+        "start_date": "04/08/2023",
+        "usd_price": 669.88
+      }
+    ]
+  },
+  {
+    "product_id": 120,
+    "product_name": "Boia de Arqueamento Danforth Flux Tidal",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "03/05/2017",
+        "usd_price": 992.44
+      },
+      {
+        "start_date": "30/05/2018",
+        "usd_price": 836.23
+      },
+      {
+        "start_date": "12/07/2018",
+        "usd_price": 810.34
+      },
+      {
+        "start_date": "14/09/2018",
+        "usd_price": 746.18
+      },
+      {
+        "start_date": "11/09/2020",
+        "usd_price": 591.22
+      },
+      {
+        "start_date": "13/10/2020",
+        "usd_price": 559.4
+      },
+      {
+        "start_date": "27/11/2020",
+        "usd_price": 584.15
+      },
+      {
+        "start_date": "03/12/2021",
+        "usd_price": 553.73
+      },
+      {
+        "start_date": "14/02/2022",
+        "usd_price": 599.71
+      },
+      {
+        "start_date": "27/04/2022",
+        "usd_price": 622.89
+      },
+      {
+        "start_date": "12/08/2022",
+        "usd_price": 612.44
+      },
+      {
+        "start_date": "26/10/2022",
+        "usd_price": 586.85
+      },
+      {
+        "start_date": "04/09/2023",
+        "usd_price": 635.45
+      }
+    ]
+  },
+  {
+    "product_id": 121,
+    "product_name": "Âncora Danforth Oceanic Helix Flux",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "29/03/2016",
+        "usd_price": 1007.13
+      },
+      {
+        "start_date": "22/02/2018",
+        "usd_price": 1133.49
+      },
+      {
+        "start_date": "03/09/2019",
+        "usd_price": 886.96
+      },
+      {
+        "start_date": "17/04/2020",
+        "usd_price": 702.77
+      },
+      {
+        "start_date": "29/04/2020",
+        "usd_price": 680.53
+      },
+      {
+        "start_date": "18/11/2020",
+        "usd_price": 698.01
+      },
+      {
+        "start_date": "31/08/2021",
+        "usd_price": 718.35
+      },
+      {
+        "start_date": "24/05/2023",
+        "usd_price": 746.8
+      },
+      {
+        "start_date": "18/12/2023",
+        "usd_price": 747.93
+      },
+      {
+        "start_date": "01/10/2024",
+        "usd_price": 677.66
+      },
+      {
+        "start_date": "12/02/2025",
+        "usd_price": 640.2
+      }
+    ]
+  },
+  {
+    "product_id": 122,
+    "product_name": "Corrente Danforth Zenith Oceanic Torque",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "06/04/2016",
+        "usd_price": 359.92
+      },
+      {
+        "start_date": "24/02/2017",
+        "usd_price": 426.78
+      },
+      {
+        "start_date": "26/04/2018",
+        "usd_price": 378.16
+      },
+      {
+        "start_date": "26/09/2018",
+        "usd_price": 326.02
+      },
+      {
+        "start_date": "29/11/2019",
+        "usd_price": 313.13
+      },
+      {
+        "start_date": "06/01/2020",
+        "usd_price": 326.15
+      },
+      {
+        "start_date": "24/09/2020",
+        "usd_price": 237.39
+      },
+      {
+        "start_date": "31/12/2020",
+        "usd_price": 254.51
+      },
+      {
+        "start_date": "02/03/2021",
+        "usd_price": 232.67
+      },
+      {
+        "start_date": "13/09/2022",
+        "usd_price": 255.36
+      },
+      {
+        "start_date": "14/09/2022",
+        "usd_price": 255.46
+      },
+      {
+        "start_date": "02/06/2023",
+        "usd_price": 266.89
+      },
+      {
+        "start_date": "11/07/2023",
+        "usd_price": 270.21
+      },
+      {
+        "start_date": "14/09/2023",
+        "usd_price": 271.3
+      },
+      {
+        "start_date": "12/12/2024",
+        "usd_price": 222.63
+      }
+    ]
+  },
+  {
+    "product_id": 123,
+    "product_name": "Cabo de Nylon Danforth Orca Aero",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "25/10/2017",
+        "usd_price": 857.62
+      },
+      {
+        "start_date": "05/10/2018",
+        "usd_price": 717.72
+      },
+      {
+        "start_date": "02/09/2022",
+        "usd_price": 535.37
+      },
+      {
+        "start_date": "16/12/2024",
+        "usd_price": 458.99
+      },
+      {
+        "start_date": "30/04/2025",
+        "usd_price": 490.63
+      }
+    ]
+  },
+  {
+    "product_id": 124,
+    "product_name": "Corrente Delta Axis",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "17/04/2018",
+        "usd_price": 1107.66
+      },
+      {
+        "start_date": "14/06/2019",
+        "usd_price": 971.46
+      },
+      {
+        "start_date": "24/03/2020",
+        "usd_price": 743.47
+      },
+      {
+        "start_date": "20/12/2022",
+        "usd_price": 719.16
+      },
+      {
+        "start_date": "27/02/2023",
+        "usd_price": 725.63
+      },
+      {
+        "start_date": "02/07/2024",
+        "usd_price": 665.23
+      },
+      {
+        "start_date": "08/04/2025",
+        "usd_price": 635.07
+      }
+    ]
+  },
+  {
+    "product_id": 125,
+    "product_name": "Cabo de Nylon Danforth Kinetic",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "26/06/2020",
+        "usd_price": 622.83
+      },
+      {
+        "start_date": "17/11/2020",
+        "usd_price": 630.46
+      },
+      {
+        "start_date": "22/03/2023",
+        "usd_price": 646.27
+      }
+    ]
+  },
+  {
+    "product_id": 126,
+    "product_name": "Corrente Danforth Hydro",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "05/02/2018",
+        "usd_price": 827.56
+      },
+      {
+        "start_date": "28/08/2018",
+        "usd_price": 649.99
+      },
+      {
+        "start_date": "31/05/2019",
+        "usd_price": 679.44
+      },
+      {
+        "start_date": "06/11/2019",
+        "usd_price": 663.54
+      },
+      {
+        "start_date": "22/01/2020",
+        "usd_price": 639.18
+      },
+      {
+        "start_date": "09/06/2020",
+        "usd_price": 545.77
+      },
+      {
+        "start_date": "28/10/2020",
+        "usd_price": 467.05
+      }
+    ]
+  },
+  {
+    "product_id": 127,
+    "product_name": "Cabo de Nylon Delta Velocity Core Mako",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "15/06/2016",
+        "usd_price": 445.7
+      },
+      {
+        "start_date": "29/08/2016",
+        "usd_price": 475.16
+      },
+      {
+        "start_date": "09/11/2018",
+        "usd_price": 413.16
+      },
+      {
+        "start_date": "04/01/2019",
+        "usd_price": 411.83
+      },
+      {
+        "start_date": "16/12/2019",
+        "usd_price": 379.79
+      },
+      {
+        "start_date": "14/10/2020",
+        "usd_price": 278.31
+      },
+      {
+        "start_date": "23/04/2021",
+        "usd_price": 282.83
+      },
+      {
+        "start_date": "07/07/2022",
+        "usd_price": 288.87
+      },
+      {
+        "start_date": "06/01/2023",
+        "usd_price": 293.17
+      },
+      {
+        "start_date": "27/03/2023",
+        "usd_price": 296.24
+      },
+      {
+        "start_date": "04/08/2025",
+        "usd_price": 281.15
+      }
+    ]
+  },
+  {
+    "product_id": 128,
+    "product_name": "Boia de Arqueamento Bruce Marlin Hydra",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "04/10/2018",
+        "usd_price": 1191.24
+      },
+      {
+        "start_date": "03/07/2019",
+        "usd_price": 1208.95
+      },
+      {
+        "start_date": "20/07/2020",
+        "usd_price": 867.2
+      },
+      {
+        "start_date": "22/09/2020",
+        "usd_price": 856.12
+      },
+      {
+        "start_date": "06/04/2022",
+        "usd_price": 990.34
+      },
+      {
+        "start_date": "26/04/2022",
+        "usd_price": 936.51
+      },
+      {
+        "start_date": "22/07/2022",
+        "usd_price": 853.09
+      },
+      {
+        "start_date": "19/08/2025",
+        "usd_price": 850.07
+      }
+    ]
+  },
+  {
+    "product_id": 129,
+    "product_name": "Corrente Delta Boost",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "10/05/2016",
+        "usd_price": 939.48
+      },
+      {
+        "start_date": "29/11/2016",
+        "usd_price": 959.13
+      },
+      {
+        "start_date": "23/10/2017",
+        "usd_price": 1020.79
+      },
+      {
+        "start_date": "14/12/2017",
+        "usd_price": 980.08
+      },
+      {
+        "start_date": "30/07/2018",
+        "usd_price": 879.22
+      },
+      {
+        "start_date": "16/08/2018",
+        "usd_price": 841.72
+      },
+      {
+        "start_date": "01/04/2020",
+        "usd_price": 623.33
+      },
+      {
+        "start_date": "05/06/2020",
+        "usd_price": 656.27
+      },
+      {
+        "start_date": "14/06/2022",
+        "usd_price": 637.97
+      },
+      {
+        "start_date": "14/07/2022",
+        "usd_price": 598.62
+      },
+      {
+        "start_date": "17/01/2024",
+        "usd_price": 661.98
+      },
+      {
+        "start_date": "20/05/2025",
+        "usd_price": 576.93
+      },
+      {
+        "start_date": "15/10/2025",
+        "usd_price": 599.77
+      }
+    ]
+  },
+  {
+    "product_id": 130,
+    "product_name": "Boia de Arqueamento Delta Zen Boost Vortex",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "01/11/2016",
+        "usd_price": 1293.13
+      },
+      {
+        "start_date": "19/02/2019",
+        "usd_price": 1114.0
+      },
+      {
+        "start_date": "17/03/2020",
+        "usd_price": 820.79
+      },
+      {
+        "start_date": "01/03/2021",
+        "usd_price": 742.32
+      },
+      {
+        "start_date": "22/03/2021",
+        "usd_price": 749.89
+      },
+      {
+        "start_date": "15/06/2023",
+        "usd_price": 859.48
+      },
+      {
+        "start_date": "18/03/2024",
+        "usd_price": 826.87
+      },
+      {
+        "start_date": "26/06/2024",
+        "usd_price": 752.23
+      }
+    ]
+  },
+  {
+    "product_id": 131,
+    "product_name": "Boia de Arqueamento Danforth Core Vortex",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "19/07/2019",
+        "usd_price": 257.63
+      },
+      {
+        "start_date": "11/03/2021",
+        "usd_price": 172.43
+      },
+      {
+        "start_date": "19/08/2022",
+        "usd_price": 185.47
+      },
+      {
+        "start_date": "07/06/2023",
+        "usd_price": 196.2
+      },
+      {
+        "start_date": "14/06/2024",
+        "usd_price": 179.69
+      },
+      {
+        "start_date": "13/08/2024",
+        "usd_price": 175.62
+      }
+    ]
+  },
+  {
+    "product_id": 132,
+    "product_name": "Corrente Bruce Nautic Evo",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "22/02/2016",
+        "usd_price": 394.57
+      },
+      {
+        "start_date": "27/02/2018",
+        "usd_price": 482.74
+      },
+      {
+        "start_date": "31/12/2019",
+        "usd_price": 387.82
+      },
+      {
+        "start_date": "12/03/2020",
+        "usd_price": 320.12
+      },
+      {
+        "start_date": "20/08/2020",
+        "usd_price": 276.61
+      },
+      {
+        "start_date": "15/02/2024",
+        "usd_price": 314.46
+      },
+      {
+        "start_date": "18/12/2025",
+        "usd_price": 282.75
+      }
+    ]
+  },
+  {
+    "product_id": 133,
+    "product_name": "Âncora Bruce Core Pulse",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "28/03/2016",
+        "usd_price": 519.96
+      },
+      {
+        "start_date": "27/06/2017",
+        "usd_price": 570.68
+      },
+      {
+        "start_date": "21/12/2017",
+        "usd_price": 572.87
+      },
+      {
+        "start_date": "09/01/2019",
+        "usd_price": 512.58
+      },
+      {
+        "start_date": "20/01/2020",
+        "usd_price": 452.55
+      },
+      {
+        "start_date": "03/06/2020",
+        "usd_price": 374.72
+      },
+      {
+        "start_date": "06/07/2022",
+        "usd_price": 348.47
+      },
+      {
+        "start_date": "01/03/2024",
+        "usd_price": 381.67
+      }
+    ]
+  },
+  {
+    "product_id": 134,
+    "product_name": "Âncora Delta Storm Vox",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "20/10/2017",
+        "usd_price": 1482.27
+      },
+      {
+        "start_date": "31/12/2019",
+        "usd_price": 1170.59
+      },
+      {
+        "start_date": "05/12/2022",
+        "usd_price": 899.33
+      },
+      {
+        "start_date": "06/09/2023",
+        "usd_price": 948.15
+      }
+    ]
+  },
+  {
+    "product_id": 135,
+    "product_name": "Cabo de Nylon Danforth Titan Poseidon",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "30/09/2016",
+        "usd_price": 506.69
+      },
+      {
+        "start_date": "13/10/2016",
+        "usd_price": 512.61
+      },
+      {
+        "start_date": "25/10/2016",
+        "usd_price": 527.31
+      },
+      {
+        "start_date": "29/01/2018",
+        "usd_price": 519.63
+      },
+      {
+        "start_date": "05/07/2018",
+        "usd_price": 419.67
+      },
+      {
+        "start_date": "15/03/2019",
+        "usd_price": 428.95
+      },
+      {
+        "start_date": "03/04/2019",
+        "usd_price": 427.92
+      },
+      {
+        "start_date": "21/10/2020",
+        "usd_price": 293.66
+      },
+      {
+        "start_date": "30/06/2022",
+        "usd_price": 313.99
+      },
+      {
+        "start_date": "31/10/2022",
+        "usd_price": 312.86
+      },
+      {
+        "start_date": "24/01/2023",
+        "usd_price": 318.15
+      },
+      {
+        "start_date": "09/03/2023",
+        "usd_price": 320.27
+      },
+      {
+        "start_date": "11/04/2023",
+        "usd_price": 328.1
+      },
+      {
+        "start_date": "14/08/2025",
+        "usd_price": 304.04
+      }
+    ]
+  },
+  {
+    "product_id": 136,
+    "product_name": "Cabo de Nylon Bruce Flux Hydro",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "23/10/2017",
+        "usd_price": 616.78
+      },
+      {
+        "start_date": "27/11/2017",
+        "usd_price": 612.66
+      },
+      {
+        "start_date": "19/01/2018",
+        "usd_price": 615.16
+      },
+      {
+        "start_date": "01/11/2018",
+        "usd_price": 533.84
+      },
+      {
+        "start_date": "20/10/2023",
+        "usd_price": 390.62
+      }
+    ]
+  },
+  {
+    "product_id": 137,
+    "product_name": "Âncora Danforth Impulse",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "08/12/2016",
+        "usd_price": 995.67
+      },
+      {
+        "start_date": "12/12/2016",
+        "usd_price": 1004.86
+      },
+      {
+        "start_date": "10/01/2017",
+        "usd_price": 1060.88
+      },
+      {
+        "start_date": "11/12/2017",
+        "usd_price": 1030.93
+      },
+      {
+        "start_date": "29/01/2018",
+        "usd_price": 1069.73
+      },
+      {
+        "start_date": "19/02/2018",
+        "usd_price": 1046.8
+      },
+      {
+        "start_date": "07/08/2018",
+        "usd_price": 912.23
+      },
+      {
+        "start_date": "28/12/2018",
+        "usd_price": 873.85
+      },
+      {
+        "start_date": "15/01/2019",
+        "usd_price": 913.93
+      },
+      {
+        "start_date": "08/03/2019",
+        "usd_price": 875.43
+      },
+      {
+        "start_date": "26/06/2020",
+        "usd_price": 619.79
+      },
+      {
+        "start_date": "04/04/2024",
+        "usd_price": 673.98
+      },
+      {
+        "start_date": "03/10/2025",
+        "usd_price": 632.89
+      }
+    ]
+  },
+  {
+    "product_id": 138,
+    "product_name": "Boia de Arqueamento Delta Peak Boost Thrust",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "30/12/2019",
+        "usd_price": 1037.95
+      },
+      {
+        "start_date": "11/03/2020",
+        "usd_price": 895.11
+      },
+      {
+        "start_date": "17/09/2020",
+        "usd_price": 795.45
+      },
+      {
+        "start_date": "08/02/2022",
+        "usd_price": 793.85
+      },
+      {
+        "start_date": "22/02/2022",
+        "usd_price": 826.61
+      },
+      {
+        "start_date": "25/05/2023",
+        "usd_price": 836.88
+      },
+      {
+        "start_date": "22/05/2025",
+        "usd_price": 741.89
+      }
+    ]
+  },
+  {
+    "product_id": 139,
+    "product_name": "Boia de Arqueamento Danforth Torque",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "11/10/2016",
+        "usd_price": 443.47
+      },
+      {
+        "start_date": "31/12/2018",
+        "usd_price": 367.79
+      },
+      {
+        "start_date": "30/10/2020",
+        "usd_price": 246.89
+      }
+    ]
+  },
+  {
+    "product_id": 140,
+    "product_name": "Boia de Arqueamento Bruce Dash Titan Pulse",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "11/05/2017",
+        "usd_price": 993.43
+      },
+      {
+        "start_date": "26/10/2018",
+        "usd_price": 853.04
+      },
+      {
+        "start_date": "20/08/2020",
+        "usd_price": 554.75
+      },
+      {
+        "start_date": "03/02/2021",
+        "usd_price": 586.81
+      },
+      {
+        "start_date": "26/04/2024",
+        "usd_price": 612.49
+      },
+      {
+        "start_date": "25/06/2025",
+        "usd_price": 565.59
+      }
+    ]
+  },
+  {
+    "product_id": 141,
+    "product_name": "Boia de Arqueamento Bruce Nexus Abyss",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "11/03/2016",
+        "usd_price": 1318.57
+      },
+      {
+        "start_date": "17/03/2016",
+        "usd_price": 1312.28
+      },
+      {
+        "start_date": "11/11/2016",
+        "usd_price": 1391.23
+      },
+      {
+        "start_date": "06/02/2017",
+        "usd_price": 1533.96
+      },
+      {
+        "start_date": "30/10/2017",
+        "usd_price": 1469.47
+      },
+      {
+        "start_date": "13/12/2018",
+        "usd_price": 1232.93
+      },
+      {
+        "start_date": "18/04/2019",
+        "usd_price": 1214.76
+      },
+      {
+        "start_date": "17/03/2022",
+        "usd_price": 942.08
+      },
+      {
+        "start_date": "08/08/2023",
+        "usd_price": 971.69
+      },
+      {
+        "start_date": "05/09/2023",
+        "usd_price": 962.15
+      },
+      {
+        "start_date": "26/10/2023",
+        "usd_price": 955.42
+      },
+      {
+        "start_date": "08/11/2023",
+        "usd_price": 978.89
+      },
+      {
+        "start_date": "08/12/2023",
+        "usd_price": 972.86
+      },
+      {
+        "start_date": "27/02/2025",
+        "usd_price": 821.3
+      },
+      {
+        "start_date": "05/03/2025",
+        "usd_price": 825.76
+      }
+    ]
+  },
+  {
+    "product_id": 142,
+    "product_name": "Âncora Danforth Vector Evo",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "04/07/2017",
+        "usd_price": 250.09
+      },
+      {
+        "start_date": "17/08/2017",
+        "usd_price": 261.55
+      },
+      {
+        "start_date": "15/06/2018",
+        "usd_price": 219.02
+      },
+      {
+        "start_date": "27/03/2019",
+        "usd_price": 209.84
+      },
+      {
+        "start_date": "29/03/2019",
+        "usd_price": 212.11
+      },
+      {
+        "start_date": "13/11/2019",
+        "usd_price": 197.89
+      },
+      {
+        "start_date": "05/03/2020",
+        "usd_price": 178.87
+      },
+      {
+        "start_date": "09/11/2022",
+        "usd_price": 160.09
+      },
+      {
+        "start_date": "30/08/2023",
+        "usd_price": 169.88
+      },
+      {
+        "start_date": "16/09/2024",
+        "usd_price": 149.71
+      },
+      {
+        "start_date": "11/07/2025",
+        "usd_price": 148.33
+      },
+      {
+        "start_date": "24/09/2025",
+        "usd_price": 155.62
+      }
+    ]
+  },
+  {
+    "product_id": 143,
+    "product_name": "Âncora Delta Hydra Kraken Velocity",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "01/06/2016",
+        "usd_price": 1228.25
+      },
+      {
+        "start_date": "08/05/2017",
+        "usd_price": 1389.34
+      },
+      {
+        "start_date": "19/04/2018",
+        "usd_price": 1305.95
+      },
+      {
+        "start_date": "10/08/2018",
+        "usd_price": 1153.34
+      },
+      {
+        "start_date": "30/05/2019",
+        "usd_price": 1117.09
+      },
+      {
+        "start_date": "24/01/2020",
+        "usd_price": 1062.29
+      },
+      {
+        "start_date": "05/08/2020",
+        "usd_price": 840.97
+      },
+      {
+        "start_date": "23/04/2021",
+        "usd_price": 809.85
+      },
+      {
+        "start_date": "25/08/2021",
+        "usd_price": 845.69
+      },
+      {
+        "start_date": "24/05/2023",
+        "usd_price": 896.83
+      },
+      {
+        "start_date": "04/11/2024",
+        "usd_price": 766.33
+      },
+      {
+        "start_date": "30/01/2025",
+        "usd_price": 751.94
+      },
+      {
+        "start_date": "09/06/2025",
+        "usd_price": 795.72
+      },
+      {
+        "start_date": "04/08/2025",
+        "usd_price": 805.06
+      },
+      {
+        "start_date": "23/09/2025",
+        "usd_price": 836.16
+      }
+    ]
+  },
+  {
+    "product_id": 144,
+    "product_name": "Boia de Arqueamento Bruce Barracuda",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "13/05/2016",
+        "usd_price": 631.98
+      },
+      {
+        "start_date": "15/03/2017",
+        "usd_price": 700.17
+      },
+      {
+        "start_date": "17/04/2018",
+        "usd_price": 650.55
+      },
+      {
+        "start_date": "16/11/2018",
+        "usd_price": 590.14
+      },
+      {
+        "start_date": "06/09/2019",
+        "usd_price": 544.76
+      },
+      {
+        "start_date": "04/08/2022",
+        "usd_price": 422.52
+      },
+      {
+        "start_date": "11/03/2024",
+        "usd_price": 444.87
+      },
+      {
+        "start_date": "17/09/2024",
+        "usd_price": 402.54
+      }
+    ]
+  },
+  {
+    "product_id": 145,
+    "product_name": "Boia de Arqueamento Delta Nexus",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "08/07/2016",
+        "usd_price": 1319.66
+      },
+      {
+        "start_date": "19/02/2020",
+        "usd_price": 994.89
+      },
+      {
+        "start_date": "30/11/2020",
+        "usd_price": 815.94
+      },
+      {
+        "start_date": "22/06/2022",
+        "usd_price": 844.58
+      },
+      {
+        "start_date": "13/10/2022",
+        "usd_price": 820.56
+      },
+      {
+        "start_date": "09/02/2024",
+        "usd_price": 875.03
+      },
+      {
+        "start_date": "04/12/2024",
+        "usd_price": 718.09
+      }
+    ]
+  },
+  {
+    "product_id": 146,
+    "product_name": "Corrente Delta Vox Ion",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "03/05/2016",
+        "usd_price": 139.54
+      },
+      {
+        "start_date": "24/11/2016",
+        "usd_price": 145.96
+      },
+      {
+        "start_date": "02/01/2018",
+        "usd_price": 151.72
+      },
+      {
+        "start_date": "19/02/2018",
+        "usd_price": 153.36
+      },
+      {
+        "start_date": "19/08/2021",
+        "usd_price": 91.55
+      },
+      {
+        "start_date": "27/01/2022",
+        "usd_price": 92.18
+      },
+      {
+        "start_date": "04/05/2022",
+        "usd_price": 99.02
+      },
+      {
+        "start_date": "29/07/2024",
+        "usd_price": 87.83
+      },
+      {
+        "start_date": "05/12/2024",
+        "usd_price": 82.88
+      }
+    ]
+  },
+  {
+    "product_id": 147,
+    "product_name": "Corrente Danforth Force Leviathan Impulse",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "13/05/2016",
+        "usd_price": 864.87
+      },
+      {
+        "start_date": "03/05/2017",
+        "usd_price": 962.45
+      },
+      {
+        "start_date": "29/10/2020",
+        "usd_price": 524.26
+      },
+      {
+        "start_date": "24/11/2021",
+        "usd_price": 540.88
+      },
+      {
+        "start_date": "21/03/2022",
+        "usd_price": 610.17
+      },
+      {
+        "start_date": "25/08/2022",
+        "usd_price": 592.19
+      }
+    ]
+  },
+  {
+    "product_id": 148,
+    "product_name": "Âncora Delta Force Barracuda Mako",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "06/06/2017",
+        "usd_price": 1458.52
+      },
+      {
+        "start_date": "15/01/2018",
+        "usd_price": 1497.5
+      },
+      {
+        "start_date": "19/02/2018",
+        "usd_price": 1479.72
+      },
+      {
+        "start_date": "08/03/2018",
+        "usd_price": 1471.94
+      },
+      {
+        "start_date": "21/01/2019",
+        "usd_price": 1269.41
+      },
+      {
+        "start_date": "21/03/2019",
+        "usd_price": 1260.65
+      },
+      {
+        "start_date": "02/09/2020",
+        "usd_price": 890.59
+      },
+      {
+        "start_date": "07/12/2021",
+        "usd_price": 848.43
+      },
+      {
+        "start_date": "25/03/2022",
+        "usd_price": 1001.67
+      },
+      {
+        "start_date": "10/11/2022",
+        "usd_price": 901.95
+      },
+      {
+        "start_date": "28/02/2023",
+        "usd_price": 919.03
+      },
+      {
+        "start_date": "28/09/2023",
+        "usd_price": 948.22
+      },
+      {
+        "start_date": "17/11/2023",
+        "usd_price": 979.78
+      },
+      {
+        "start_date": "18/06/2024",
+        "usd_price": 885.1
+      },
+      {
+        "start_date": "21/07/2025",
+        "usd_price": 860.42
+      }
+    ]
+  },
+  {
+    "product_id": 149,
+    "product_name": "Cabo de Nylon Bruce Core",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "19/02/2016",
+        "usd_price": 287.41
+      },
+      {
+        "start_date": "17/03/2016",
+        "usd_price": 319.33
+      },
+      {
+        "start_date": "25/08/2017",
+        "usd_price": 369.92
+      },
+      {
+        "start_date": "28/12/2018",
+        "usd_price": 300.35
+      },
+      {
+        "start_date": "04/01/2019",
+        "usd_price": 309.3
+      },
+      {
+        "start_date": "01/10/2019",
+        "usd_price": 278.82
+      },
+      {
+        "start_date": "29/06/2020",
+        "usd_price": 213.86
+      },
+      {
+        "start_date": "20/07/2021",
+        "usd_price": 221.82
+      },
+      {
+        "start_date": "11/07/2022",
+        "usd_price": 217.62
+      },
+      {
+        "start_date": "14/02/2023",
+        "usd_price": 225.94
+      }
+    ]
+  },
+  {
+    "product_id": 150,
+    "product_name": "Cabo de Nylon Danforth Magnum Vox",
+    "category": "ancoragem",
+    "historic_data": [
+      {
+        "start_date": "28/11/2018",
+        "usd_price": 426.06
+      },
+      {
+        "start_date": "28/12/2018",
+        "usd_price": 424.77
+      },
+      {
+        "start_date": "19/02/2019",
+        "usd_price": 442.38
+      },
+      {
+        "start_date": "17/09/2020",
+        "usd_price": 312.94
+      },
+      {
+        "start_date": "09/08/2022",
+        "usd_price": 321.31
+      },
+      {
+        "start_date": "01/06/2023",
+        "usd_price": 326.88
+      },
+      {
+        "start_date": "31/01/2024",
+        "usd_price": 332.26
+      },
+      {
+        "start_date": "29/08/2024",
+        "usd_price": 292.03
+      },
+      {
+        "start_date": "04/10/2024",
+        "usd_price": 300.96
+      },
+      {
+        "start_date": "25/10/2024",
+        "usd_price": 288.9
+      }
+    ]
+  }
+]
