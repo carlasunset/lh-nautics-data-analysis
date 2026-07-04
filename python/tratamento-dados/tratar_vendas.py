@@ -1,6 +1,6 @@
 import pandas as pd
 
-df_vendas = pd.read_csv("../data/datasets-brutos/vendas_2023_2024.csv")
+df_vendas = pd.read_csv("../../data/datasets-brutos/vendas_2023_2024.csv")
 print("*-----------------DF SEM TRATAMENTO----------------------*")
 print(df_vendas.info())
 print(df_vendas.head())
